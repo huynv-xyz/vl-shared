@@ -1,0 +1,1267 @@
+STT,Mã khách hàng,Tên khách hàng,Loại KH,Tình trang ký HDN,Trạng thái
+1,BSH.2BT.BASU,Đại Lý Ba Sử,B2C,,Đang sử dụng
+2,BSH.2BT.HOANUNG,Đại lý Hoàn Ưng,B2C,,Đang sử dụng
+3,BSH.2BT.SAUDEP,Đại lý Sáu Đẹp,B2C,,Đang sử dụng
+4,BSH.2BT.TAMSE,Đại lý Tám Se,B2C,,Đang sử dụng
+5,BSH.2BT.TANTAY,Cửa Hàng VTNN Võ Tấn Tày,B2C,,Đang sử dụng
+6,BSH.2BT.THANHKHANG,Đại lý Phúc Thành Khang,B2C,,Đang sử dụng
+7,BSH.2BT.THANHPHONG,Đại lý Thanh Phong ( Nhã ),B2C,,Đang sử dụng
+8,BSH.2BT.THEVINH,Đại lý Lương Thế Vinh,B2C,,Đang sử dụng
+9,BSH.2BT.VANCHUONG,Đại Lý Hồ Văn Chương,B2C,,Ngừng sử dụng
+10,BSH.2LA.ANHDUC,Hộ kinh doanh Lê Minh Đức,B2C,,Đang sử dụng
+11,BSH.2LA.ANHLOC,Đại lý Anh Lộc,B2C,,Đang sử dụng
+12,BSH.2LA.BAPAUL,ĐLý PP Chính Thức Của Công Ty Nông Vui Ba Paul,B2C,,Đang sử dụng
+13,BSH.2LA.DUCANH,CH VTNN Đức Anh,B2C,,Đang sử dụng
+14,BSH.2LA.HOANGDU,Đại lý Hoàng Dự,B2C,,Đang sử dụng
+15,BSH.2LA.MINHTAM,Đại lý Minh Tâm,B2C,,Đang sử dụng
+16,BSH.2LA.NAMDANG,Đại lý Năm Đang,B2C,,Đang sử dụng
+17,BSH.2LA.NGOCHIEN,CỬA HÀNG VTNN NGỌC HIỀN,B2C,,Đang sử dụng
+18,BSH.2LA.PHUONGPHUC,Đại lý Phương Phúc,B2C,,Đang sử dụng
+19,BSH.2LA.TUNA,VTNN TƯ NA,B2C,,Đang sử dụng
+20,BSH.2LA.TUNHON,ĐẠI LÝ TƯ NHƠN,B2C,,Đang sử dụng
+21,BSH.2LA.TUTROI,Hộ kinh doanh Tư Trỗi ( Hồ Văn Trỗi),B2C,,Đang sử dụng
+22,BSH.2TG.ANTIEN,Đại lý An Tiên,B2C,,Đang sử dụng
+23,BSH.2TG.BAHUNG,Đại Lý Ba Hùng (HUỲNH THÁI HÙNG),B2C,,Đang sử dụng
+24,BSH.2TG.BATHANG,Đại Lý Ba Thắng,B2C,,Đang sử dụng
+25,BSH.2TG.BAYKHAI,Cửa hàng VTNN Bảy Khải,B2C,,Đang sử dụng
+26,BSH.2TG.BEHAI,Đại Lý Bé 2,B2C,,Đang sử dụng
+27,BSH.2TG.CHAUDUC3,Đại Lý Châu Đức 3,B2C,,Đang sử dụng
+28,BSH.2TG.CHINDUNG,Đại Lý Chín Dung (Nguyễn Thành Qui),B2C,,Đang sử dụng
+29,BSH.2TG.CHINDUOC,Đại Lý Chín Được,B2C,,Đang sử dụng
+30,BSH.2TG.CHINHEM,Đại lý Chính Em,B2C,,Đang sử dụng
+31,BSH.2TG.CONGLAN,Đại Lý Công Lan,B2C,,Đang sử dụng
+32,BSH.2TG.CUONGHANH,Đại lý Cường Hạnh,B2C,,Đang sử dụng
+33,BSH.2TG.DINHHUONG,Đại Lý Định Hương,B2C,,Đang sử dụng
+34,BSH.2TG.DOLHANG,Đại lý Chị hằng ( Dol Hằng),B2C,,Đang sử dụng
+35,BSH.2TG.HAILON,Cửa Hàng VTNN Hai Lớn,B2C,,Đang sử dụng
+36,BSH.2TG.HAINHOM,Đại lý Hai Nhóm,B2C,,Đang sử dụng
+37,BSH.2TG.HAITAM,Đại lý Hai Tâm,B2C,,Đang sử dụng
+38,BSH.2TG.HAITHIEN,Đại Lý Hai Thiện,B2C,,Đang sử dụng
+39,BSH.2TG.HOANGGIANG,HKD CH VTNN Hoàng Giang,B2C,,Đang sử dụng
+40,BSH.2TG.HONGVAN,CH VTNN Hồng Vân,B2C,,Đang sử dụng
+41,BSH.2TG.KHANGTHINH,Đại lý Khang Thịnh,B2C,,Đang sử dụng
+42,BSH.2TG.KimHung,Đại Lý Kim Hùng,B2C,,Đang sử dụng
+43,BSH.2TG.LEHUYNH,Đại Lý Lê Huỳnh,B2C,,Đang sử dụng
+44,BSH.2TG.MINHTAI,Đại lý Minh Tài,B2C,,Đang sử dụng
+45,BSH.2TG.MYANH,Đại Lý Mỹ Anh,B2C,,Đang sử dụng
+46,BSH.2TG.NAMLINH,Cửa hàng VTNN Năm Lịnh,B2C,,Đang sử dụng
+47,BSH.2TG.NGUYENHUNG,Cửa Hàng VTNN Nguyễn Hùng,B2C,,Đang sử dụng
+48,BSH.2TG.PHONG,Đại Lý Phong,B2C,,Đang sử dụng
+49,BSH.2TG.QUOCHAI,ĐẠI LÝ QUỐC HẢI (TRẦN QUỐC HẢI),B2C,,Đang sử dụng
+50,BSH.2TG.SAUSON,Cửa hàng VTNN Sáu Sơn,B2C,,Đang sử dụng
+51,BSH.2TG.TAIDANG,Đại Lý Dương Tài Đặng,B2C,,Đang sử dụng
+52,BSH.2TG.TamChua,Đại lý Tám Chùa,B2C,,Đang sử dụng
+53,BSH.2TG.TAMNGAN2,Đại lý Tám Ngàn 2,B2C,,Đang sử dụng
+54,BSH.2TG.TANDUNG,Đại Lý Tấn Dũng,B2C,,Đang sử dụng
+55,BSH.2TG.THANGLOI,Đại Lý Thắng Lợi,B2C,,Đang sử dụng
+56,BSH.2TG.THINHTOAN,Đại Lý VTNN Thịnh Toàn,B2C,,Đang sử dụng
+57,BSH.2TG.TRANCHIN,ĐẠI LÝ TRẦN CHÍN,B2C,,Đang sử dụng
+58,BSH.2TG.TRUNGNAM,Đại Lý Trung Nam,B2C,,Đang sử dụng
+59,BSH.2TG.UTCAO,Cửa hàng VTNN Út Cao,B2C,,Đang sử dụng
+60,BSH.2TG.VANLU,Hộ Kinh Doanh Trần Văn Lữ,B2C,,Đang sử dụng
+61,BSH.2TG.VANPHUOC,Đại lý Nguyễn Văn Phước,B2C,,Đang sử dụng
+62,BSH.2TV.HAIUT,Đại lý Hai Út ( Hai Tửu),B2C,,Đang sử dụng
+63,BSH.2VL.BANG,ANH BẰNG,B2C,,Đang sử dụng
+64,BSH.2VL.DUCTAN,ĐẠI LÝ ĐỨC TÂN,B2C,,Đang sử dụng
+65,BSH.2VL.GIAPHAT,Đại Lý Gia Phát,B2C,,Đang sử dụng
+66,BSH.2VL.HONGNHO,Đại Lý Hồng Nho (Lương Đức Khởi),B2C,,Đang sử dụng
+67,BSH.2VL.HUYNHNGOCTHACH,Đại Lý Huỳnh Ngọc Thạch,B2C,,Đang sử dụng
+68,BSH.2VL.MINHTHIEN,Nông dân Minh Thiện,B2C,,Đang sử dụng
+69,BSH.2VL.MUOIHUONG,Cửa hàng VTNN Mười Hương,B2C,,Đang sử dụng
+70,BSH.2VL.NAMTUONG,ĐẠI LÝ NĂM TƯƠNG,B2C,,Đang sử dụng
+71,BSH.2VL.NHUTLINH,Đại Lí Nhựt Linh,B2C,,Đang sử dụng
+72,BSH.2VL.PHUNONG,CH VTNN Phú Nông,B2C,,Đang sử dụng
+73,BSH.2VL.ANPHU,HKD CH VTNN An Phú,B2C,,Đang sử dụng
+74,BSH.2VL.PHUOCHANH,Đại Lý Phước Hạnh,B2C,,Đang sử dụng
+75,BSH.2VL.PHUOCTHANH,Hộ kinh doanh Vân Phước Thành,B2C,,Đang sử dụng
+76,BSH.2VL.PHUONGQUYEN,Đại lý VTNN Phương Quyên,B2C,,Đang sử dụng
+77,BSH.2VL.TANPHAT,HKD Huỳnh Tấn Phát,B2C,,Đang sử dụng
+78,BSH.2VL.THANGLOI,Hộ Kinh Doanh Cửa hàng VTNN Thắng Lợi,B2C,,Đang sử dụng
+79,BSH.2VL.THANHDIEM,ĐẠI LÝ THÀNH DIỄM,B2C,,Đang sử dụng
+80,BSH.2VL.THANHTHANG,Đại Lý Thành Thắng,B2C,,Đang sử dụng
+81,BSH.2VL.THIENMINH,ĐẠI LÝ THIÊN MINH,B2C,,Đang sử dụng
+82,BSH.2VL.TRUNGHIEU,Cửa Hàng VTNN Nguyễn Trung Hiếu 3,B2C,,Đang sử dụng
+83,BSH.2VL.VANKHANH,Hộ Kinh Doanh VTNN Văn Khanh,B2C,,Đang sử dụng
+84,CTY.1HCM.ECO,Công ty TNHH Eco.AH,B2C,,Đang sử dụng
+85,HCM.2BP.GIATRANG,Công Ty TNHH Thương Mại Dịch vụ STAR Nông Gia Trang,B2C,,Đang sử dụng
+86,HCM.2HCM.DAIHUNG,CHPBTTS Đại Hưng,B2C,,Đang sử dụng
+87,HCM.2HCM.FOODKING,Cty TNHH Food King,B2C,,Đang sử dụng
+88,HCM.2HCM.THANHLINH,CH Thanh Linh,B2C,,Đang sử dụng
+89,HCM.2HCM.TIENPHAT,Đại lý Tiến Phát,B2C,,Đang sử dụng
+90,HCM.2HCM.UTLOAN,Đại lý Út Loan,B2C,,Đang sử dụng
+91,LD.1LD.MINHTOAN,Đại lý Minh Toàn,B2C,,Đang sử dụng
+92,LD.2DL.ANYEN,Đại lý An Yến,B2C,,Đang sử dụng
+93,LD.2DL.BINHMINH,CỦA HÀNG VTNN BÌNH MINH,B2C,,Đang sử dụng
+94,LD.2DL.CONGANH,Đại lý Công Anh,B2C,,Đang sử dụng
+95,LD.2DL.CUONGTHINH,Đại Lý Cường Thịnh,B2C,,Đang sử dụng
+96,LD.2DL.CUONGTUYET,ĐẠI LÝ CƯỜNG TUYẾT,B2C,,Đang sử dụng
+97,LD.2DL.DONDUONG,Hộ kinh Doanh Nông Dược Đơn Dương,B2C,,Đang sử dụng
+98,LD.2DL.DUNGBINH,ĐẠI LÝ DŨNG BÌNH 2,B2C,,Đang sử dụng
+99,LD.2DL.HATUY,Đại lý Hà Tùy (Lê Thị Thu Hà),B2C,,Đang sử dụng
+100,LD.2DL.HIEPTHANH8,ĐẠI LÝ HIỆP THÀNH 8,B2C,,Đang sử dụng
+101,LD.2DL.HOAHAO,ĐẠI LÝ HÒA HẢO,B2C,,Đang sử dụng
+102,LD.2DL.HOAHIEN,ĐẠI LÝ HÒA HIÊN,B2C,,Đang sử dụng
+103,LD.2DL.HOIYEN,Đại Lý Hội Yến,B2C,,Đang sử dụng
+104,LD.2DL.HUNGTHINH,ĐẠI LÝ HƯNG THỊNH,B2C,,Đang sử dụng
+105,LD.2DL.KIMVAN,Đại Lý Kim Vân Trại Mát,B2C,,Đang sử dụng
+106,LD.2DL.LIEMDUNG,ĐẠI LÝ LIÊM DUNG,B2C,,Đang sử dụng
+107,LD.2DL.LINHTINH,Cửa hàng VTNN Linh Tính,B2C,,Đang sử dụng
+108,LD.2DL.MANGLINE,Cửa hàng VTNN Măng Line,B2C,,Đang sử dụng
+109,LD.2DL.MINHTHY,Đại Lý Minh Thy,B2C,,Đang sử dụng
+110,LD.2DL.NAMNUA,Đại lý Nam Nữa,B2C,,Đang sử dụng
+111,LD.2DL.NGOCLOAN,ĐẠI LÝ NGỌC LOAN,B2C,,Đang sử dụng
+112,LD.2DL.NGUYENHUNG,ĐẠI LÝ NGUYÊN HÙNG,B2C,,Đang sử dụng
+113,LD.2DL.NHUPHONG,ĐẠI LÝ NHƯ PHONG,B2C,,Đang sử dụng
+114,LD.2DL.NONGPHAT,Đại lý An Nông Phát,B2C,,Đang sử dụng
+115,LD.2DL.SONLINH,ĐẠI LÝ SƠN LINH,B2C,,Đang sử dụng
+116,LD.2DL.SONLINHnew,ĐẠI LÝ SƠN LINH (new),B2C,,Đang sử dụng
+117,LD.2DL.SONOANH,Đại lý SƠN OANH,B2C,,Đang sử dụng
+118,LD.2DL.THANGTAM,Đại Lý Thắng Tâm,B2C,,Đang sử dụng
+119,LD.2DL.THANHLOAN,ĐẠI LÝ THÀNH LOAN,B2C,,Đang sử dụng
+120,LD.2DL.THANHNONG,ĐẠI LÝ THÀNH NÔNG,B2C,,Đang sử dụng
+121,LD.2DL.THIHIEN,Hộ KD Phạm Thị Hiền (Kiến Nông),B2C,,Đang sử dụng
+122,LD.2DL.TOANPHUONG,ĐẠI LÝ TOÀN PHƯỢNG,B2C,,Đang sử dụng
+123,LD.2DL.TUANNHU,Đại Lý Tuấn Như,B2C,,Đang sử dụng
+124,LD.2DL.TUNGLOAN,ĐẠI LÝ TÙNG LOAN,B2C,,Đang sử dụng
+125,LD.2DL.VANTIN,Đại lý Vạn Tín,B2C,,Đang sử dụng
+126,LD.2DL.VANTUONG,HỘ KINH DOANH VẠN TƯỜNG,B2C,,Đang sử dụng
+127,LD.2DL.VINHTY,Đại Lý Vinh Ty,B2C,,Đang sử dụng
+128,LD.2DL.XUANTHO,Đại Lý Xuân Thọ,B2C,,Đang sử dụng
+129,LD.2LD.3Q,Cửa hàng BVTV 3Q,B2C,,Đang sử dụng
+130,LD.2LD.ANDUC,ĐẠI LÝ AN ĐỨC,B2C,,Đang sử dụng
+131,LD.2LD.BIDEN,Đại Lý Bi Đen,B2C,,Đang sử dụng
+132,LD.2LD.CHIEN,Đại Lý Chiến,B2C,,Đang sử dụng
+133,LD.2LD.CUONGSUONG,Đại lý Phân bón Cường Sương (BL),B2C,,Đang sử dụng
+134,LD.2LD.DANGVU,ĐẠI LÝ ĐĂNG VŨ,B2C,,Đang sử dụng
+135,LD.2LD.DIEUPHAT,CỬA HÀNG VTNN DIỆU PHÁT,B2C,,Đang sử dụng
+136,LD.2LD.DUCHAOPHAT,ĐẠI LÝ ĐỨC HÀO PHÁT,B2C,,Đang sử dụng
+137,LD.2LD.DUCPHUONG,CỬA HÀNG VTNN ĐỨC PHƯƠNG,B2C,,Đang sử dụng
+138,LD.2LD.DUNGLE,Đại lí Dũng Lệ,B2C,,Đang sử dụng
+139,LD.2LD.HIENPHAT,Đại Lý Hiền Phát,B2C,,Đang sử dụng
+140,LD.2LD.HOAAI,Đại Lý Hòa Ái,B2C,,Đang sử dụng
+141,LD.2LD.HOANGPHUC,DNTN Hồng Hoàng Phúc,B2C,,Đang sử dụng
+142,LD.2LD.HONGDUC,Đại lý Hồng Đức,B2C,,Đang sử dụng
+143,LD.2LD.HONGLIEN,Đại lý Hồng Liên,B2C,,Đang sử dụng
+144,LD.2LD.HUNGHOA,Đại Lý Hùng Hoa,B2C,,Đang sử dụng
+145,LD.2LD.HUNGPHAT,VŨ THANH HÙNG (Đại Lí Hùng Phát),B2C,,Đang sử dụng
+146,LD.2LD.HUONGDUONG,CH VTNN HƯỚNG DƯƠNG,B2C,,Đang sử dụng
+147,LD.2LD.HUY,Đại Lý Huy,B2C,,Đang sử dụng
+148,LD.2LD.HUYKHANH,Đại Lý Hưng Huy Khánh (HKD CH VTNN Nông Dược Đức Trọng),B2C,,Đang sử dụng
+149,LD.2LD.LANHUNG2,Cửa Hàng VTNN Lan Hùng (BL),B2C,,Đang sử dụng
+150,LD.2LD.LANPHUONG,Đại lý Lan Phương (Giao),B2C,,Đang sử dụng
+151,LD.2LD.MINHKHANG,Hộ KD VTNN Minh Khang,B2C,,Đang sử dụng
+152,LD.2LD.NGOCBICH,Đại lí Ngọc Bích,B2C,,Đang sử dụng
+153,LD.2LD.NGOCBICH1,Đại Lý Ngọc Bích,B2C,,Đang sử dụng
+154,LD.2LD.NGOCQUYEN,Đại Lý Ngọc Quyền,B2C,,Đang sử dụng
+155,LD.2LD.NGOCTRUNG,Đại lý Nguyễn Ngọc Trung,B2C,,Đang sử dụng
+156,LD.2LD.NINHGIA,Đại lý Nông Dược Ninh Gia (Vân Anh),B2C,,Đang sử dụng
+157,LD.2LD.NONGPHAT,ĐẠI LÝ NÔNG PHÁT (PHÚ),B2C,,Đang sử dụng
+158,LD.2LD.PHUCNGA,Đại Lý Phúc Nga,B2C,,Đang sử dụng
+159,LD.2LD.QUANGDUY,Đại Lý Quang Duy,B2C,,Đang sử dụng
+160,LD.2LD.QUANGLAN,Đại lý Quang Lan,B2C,,Đang sử dụng
+161,LD.2LD.QUOCDAT,Đại Lý Quốc Đạt,B2C,,Đang sử dụng
+162,LD.2LD.THANHBANG,Đại Lý Thanh Bằng,B2C,,Đang sử dụng
+163,LD.2LD.THANHBINH,Đại Lý Thanh Bình,B2C,,Đang sử dụng
+164,LD.2LD.THANHDAT,Đại Lý Thành Đạt,B2C,,Đang sử dụng
+165,LD.2LD.THANHHOAI,ĐẠI LÝ THANH HOÀI,B2C,,Đang sử dụng
+166,LD.2LD.THANHNGOC,Đại lý Thanh Ngọc,B2C,,Đang sử dụng
+167,LD.2LD.THANHTUYEN,Đại Lý Thanh Tuyến,B2C,,Đang sử dụng
+168,LD.2LD.THIENAN,Đại lý Thiên Ân,B2C,,Đang sử dụng
+169,LD.2LD.THIENSINH,HKD Thiên Sinh Tân Hội,B2C,,Đang sử dụng
+170,LD.2LD.THINHNGOAN,Đại Lý Thịnh Ngoan,B2C,,Đang sử dụng
+171,LD.2LD.THOA,Đại Lý Thoa,B2C,,Đang sử dụng
+172,LD.2LD.THOAITAM,Đại Lý Phân Bón Thoại Tâm,B2C,,Đang sử dụng
+173,LD.2LD.THONGHUYEN,Đại Lý Thông Huyền,B2C,,Đang sử dụng
+174,LD.2LD.THUAN,Đại Lý Thuấn 2,B2C,,Đang sử dụng
+175,LD.2LD.THUANTHU,Đại lý Thuận Thu,B2C,,Đang sử dụng
+176,LD.2LD.THUYHAI,Đại lý Thủy Hải,B2C,,Đang sử dụng
+177,LD.2LD.TINHTHANH,Đại lý Tính Thanh,B2C,,Đang sử dụng
+178,LD.2LD.TRANGDOAN,Đại Lý Trang Đoàn,B2C,,Đang sử dụng
+179,LD.2LD.TRANMY,Cửa hàng VTNN Trần Mỹ,B2C,,Đang sử dụng
+180,LD.2LD.TUYENHUE,Đại lý Tuyến Huế,B2C,,Đang sử dụng
+181,LD.2LD.TUYENYEN,ĐẠI LÝ TUYẾN YẾN,B2C,,Đang sử dụng
+182,LD.2LD.VANQUY,Đại Lý Vân Quy,B2C,,Đang sử dụng
+183,LD.2LD.VUONGMINH,CTy TNHH TM DV Vượng Minh,B2C,,Đang sử dụng
+184,LD.2LD.XUANTHAU,Đại Lý Xuân Thấu,B2C,,Đang sử dụng
+185,MB.2HN.CAOCUONG,HỘ KINH DOANH BÙI CAO CƯỜNG,B2C,,Đang sử dụng
+186,MD.2DN.PHUOCMAI,CH VTNN PHƯỚC MAI,B2C,,Đang sử dụng
+187,MD.2BD.ANHHOAI,Đại lý Anh Hoài,B2C,,Đang sử dụng
+188,MD.2BD.HUUNGHIA,Đại lý Hữu Nghĩa,B2C,,Đang sử dụng
+189,MD.2BD.KIMQUYEN,Đại lý Kim Quyên,B2C,,Đang sử dụng
+190,MD.2BD.KIMTHAO,Đại lý Kim Thảo,B2C,,Đang sử dụng
+191,MD.2BD.MINHHAI,Cửa Hàng Sáu Minh Hải,B2C,,Đang sử dụng
+192,MD.2BD.NAMDUNG,Đại lý Năm Dũng,B2C,,Đang sử dụng
+193,MD.2BD.NGOCSUM,Cửa Hàng Phân Bón Thuốc Trừ Sâu Ngọc Sum,B2C,,Đang sử dụng
+194,MD.2BD.UTHONG,Đại lý Út Hồng,B2C,,Đang sử dụng
+195,MD.2BD.UTTRUONG,Đại Lý Út Trường,B2C,,Đang sử dụng
+196,MD.2BP.BAHOA,Đại Lý Cô Ba Hòa,B2C,,Đang sử dụng
+197,MD.2BP.BINHMINH,Đại Lý Bình Minh,B2C,,Đang sử dụng
+198,MD.2BP.BINLOAN,Đại lý Bin Loan,B2C,,Đang sử dụng
+199,MD.2BP.DANGKHOA,Đại Lý VTNN Đăng Khoa (CHÂU NGỌC AN),B2C,,Đang sử dụng
+200,MD.2BP.DONGPHAT,Đại lý Đồng Phát,B2C,,Đang sử dụng
+201,MD.2BP.DONGPHAT4,Cửa Hàng VTNN Đồng Phát 4,B2C,,Đang sử dụng
+202,MD.2BP.DONGXOAI,Công Ty TNHH MTV Dịch Vụ Nông Nghiệp TP ĐỒNG XOÀI,B2C,,Đang sử dụng
+203,MD.2BP.GIANHAT,ĐẠI LÝ NÔNG GIA NHẬT,B2C,,Đang sử dụng
+204,MD.2BP.HAIHIEN,Đại lý Hải Hiền,B2C,,Đang sử dụng
+205,MD.2BP.HONGNHUNG,Cửa Hàng Hồng Nhung,B2C,,Đang sử dụng
+206,MD.2BP.HOPPHATV,CH VTNN Hợp Phát V,B2C,,Đang sử dụng
+207,MD.2BP.LOIPHAT,Công Ty TNHH MTV Đại Lợi Phát,B2C,,Đang sử dụng
+208,MD.2BP.LUAN,Trần Ngọc Luẩn (Sale VLIFE mới),B2C,,Đang sử dụng
+209,MD.2BP.MINHTU,Đại lý Minh Tứ,B2C,,Đang sử dụng
+210,MD.2BP.NAMNGHIA,Đại lý Năm Nghĩa,B2C,,Đang sử dụng
+211,MD.2BP.NGHIATHAI,Đại Lý Nghĩa Thái,B2C,,Đang sử dụng
+212,MD.2BP.NGOCTUAN,Đại lý Ngọc Tuấn,B2C,,Đang sử dụng
+213,MD.2BP.NGOTRANG,Đại lý Ngô Trang,B2C,,Đang sử dụng
+214,MD.2BP.NUHOANG,CTY TNHH NNST TT NỮ HOÀNG,B2C,,Đang sử dụng
+215,MD.2BP.SUQUANG,Đại Lý Kỹ Sư Quang,B2C,,Đang sử dụng
+216,MD.2BP.THANHTHUY,Đại Lý Thành Thúy,B2C,,Đang sử dụng
+217,MD.2BP.THAONHON,Đại Lý  Thảo Nhơn,B2C,,Đang sử dụng
+218,MD.2BP.THIENTHUAT,Cửa hàng phân bón Thiện Thuật,B2C,,Đang sử dụng
+219,MD.2BP.THUONGOANH,Đại lý Thường Oanh,B2C,,Đang sử dụng
+220,MD.2BP.TRANGTRAI,Khách hàng Trang Trại sale Luẩn,B2C,,Ngừng sử dụng
+221,MD.2BP.TUANVIET,Đại Lý Tuấn Việt,B2C,,Đang sử dụng
+222,MD.2BP.VANPHONG,Hộ kinh doanh Đinh Văn Phong,B2C,,Đang sử dụng
+223,MD.2BP.XUANTRUNG,Đại Lý Xuân Trung,B2C,,Đang sử dụng
+224,MD.2B.QUANGVINH,CỬA HÀNG VTNN  QUANG VINH,B2C,,Đang sử dụng
+225,MD.2BT.ANPHU,Đại Lý An Phú,B2C,,Đang sử dụng
+226,MD.2BT.CAOPHONG,Cửa Hàng VTNN Cao Phong,B2C,,Đang sử dụng
+227,MD.2BT.CHUNHO,Cửa hàng VTNN Cậu Chủ Nhỏ,B2C,,Đang sử dụng
+228,MD.2BT.COXEM,Đại Lý Cô Xem,B2C,,Đang sử dụng
+229,MD.2BT.DAMI,HTX TỔNG HỢP NÔNG NGHIỆP ĐA MI,B2C,,Ngừng sử dụng
+230,MD.2BT.DUCTOAN,Đại Lý Đức Toàn,B2C,,Đang sử dụng
+231,MD.2BT.DUNGVY,Đại Lý Dũng Vy,B2C,,Đang sử dụng
+232,MD.2BT.DUYLAM,Cửa hàng Phân Bón Duy Lâm,B2C,,Đang sử dụng
+233,MD.2BT.GIATHUAN,Cửa hàng VTNN Gia Thuận,B2C,,Đang sử dụng
+234,MD.2BT.HAUHA,Đại lý Hậu Hà,B2C,,Đang sử dụng
+235,MD.2BT.HIENHUONG,Đại lý VTNN Hiền Hương,B2C,,Đang sử dụng
+236,MD.2BT.HIEPNI,Hộ Kinh Doanh Hiệp Ni,B2C,,Đang sử dụng
+237,MD.2BT.HIEULOAN,CỬA HÀNG VTNN HIẾU LOAN,B2C,,Đang sử dụng
+238,MD.2BT.HOANGPHI,Đại Lý Hoàng Phi,B2C,,Đang sử dụng
+239,MD.2BT.HUYDAT,Cửa hàng VTNN Huy Đạt,B2C,,Đang sử dụng
+240,MD.2BT.KIMMAI,Đại Lý Kim Mai,B2C,,Đang sử dụng
+241,MD.2BT.KIMPHUONG,Cửa hàng VTNN Kim Phượng,B2C,,Đang sử dụng
+242,MD.2BT.MINHPHUONG,Đại Lý Minh Phương,B2C,,Đang sử dụng
+243,MD.2BT.MINHTHU,Cửa hàng Phân Bón Minh Thư,B2C,,Đang sử dụng
+244,MD.2BT.NGOCDANUYEN,Đại lý Ngọc Đan Uyên,B2C,,Đang sử dụng
+245,MD.2BT.NGOCDAT,Phân Bón Ngọc Đạt,B2C,,Đang sử dụng
+246,MD.2BT.PHAMTUYET,CH.Phân Bón Phạm Tuyết,B2C,,Đang sử dụng
+247,MD.2BT.QUYNHHUONG,Cừa Hàng  VTNN Quỳnh Hương,B2C,,Đang sử dụng
+248,MD.2BT.SAUTHANH,Đại lý Sáu Thanh,B2C,,Đang sử dụng
+249,MD.2BT.SONNGA,CỬA HÀNG SƠN NGA,B2C,,Đang sử dụng
+250,MD.2BT.THANHNGUYEN,Cửa Hàng Thanh Nguyên,B2C,,Đang sử dụng
+251,MD.2BT.THIENPHU,Cửa Hàng VTNN Thiên Phú,B2C,,Đang sử dụng
+252,MD.2BT.THONGMINH2,Cửa hàng VTNN Thông Minh 2,B2C,,Đang sử dụng
+253,MD.2BT.TIEN,HỨA XUÂN TIẾN,B2C,,Đang sử dụng
+254,MD.2BT.TRUNGCHIN,Đại Lý Trung Chín,B2C,,Đang sử dụng
+255,MD.2BT.TYKIEU,Đại Lý Ty Kiều,B2C,,Đang sử dụng
+256,MD.2BT.UTNU,Hộ Kinh Doanh Thê Nụ (Út Nụ),B2C,,Đang sử dụng
+257,MD.2BT.VAN,Cửa Hàng VTNN  Vân (BL),B2C,,Đang sử dụng
+258,MD.2BT.VINHTUONG,CỬA HÀNG VTNN VĨNH TƯỜNG,B2C,,Đang sử dụng
+259,MD.2BT.VONGXANH,Đại lý Khát Vọng Xanh,B2C,,Đang sử dụng
+260,MD.2DN.BATHU,ĐẠI LÝ BA THU,B2C,,Đang sử dụng
+261,MD.2DN.BINHMINH,HTX SXNN TMDV Bình Minh,B2C,,Đang sử dụng
+262,MD.2DN.CHIENNGA,Đại Lý Chiến Nga,B2C,,Đang sử dụng
+263,MD.2DN.CHINTINH,Đại lý Chín Tình,B2C,,Đang sử dụng
+264,MD.2DN.DINHTHE,Đại lí Nguyễn Đình Thế,B2C,,Đang sử dụng
+265,MD.2DN.DONGTHANH,Đại Lý Đồng Thanh,B2C,,Đang sử dụng
+266,MD.2DN.DUNG,Đại Lý Dũng,B2C,,Đang sử dụng
+267,MD.2DN.DUNGPHUOC,Đại Lý Dũng Phước,B2C,,Ngừng sử dụng
+268,MD.2DN.DUYSAU,Đại lý Duy Sáu,B2C,,Đang sử dụng
+269,MD.2DN.GIAPHAT,Cửa hàng VTNN Nông Gia Phát,B2C,,Đang sử dụng
+270,MD.2DN.HAQUYET,Đại Lý Hà Quyết (ĐÀM THỊ HÀ),B2C,,Đang sử dụng
+271,MD.2DN.HOATHAO,Đại lý Hòa Thảo,B2C,,Đang sử dụng
+272,MD.2DN.HOI,PHẠM QUỐC HỘI,B2C,,Đang sử dụng
+273,MD.2DN.HONGHANH,Đại Lý Hồng Hạnh,B2C,,Đang sử dụng
+274,MD.2DN.HUYTHAO,ĐẠI LÝ HUY THẢO,B2C,,Đang sử dụng
+275,MD.2DN.KIMLONG,Đại lý Kim Long,B2C,,Đang sử dụng
+276,MD.2DN.KIMNUONG,Đại Lý Kim Nương,B2C,,Đang sử dụng
+277,MD.2DN.LUAN,Cửa hàng VTNN Luân,B2C,,Đang sử dụng
+278,MD.2DN.MINHCHAU,Cửa hàng VTNN Minh Châu,B2C,,Đang sử dụng
+279,MD.2DN.MINHCUONG,Đại Lý Minh Cường,B2C,,Đang sử dụng
+280,MD.2DN.NGACHUNG,Đại lý Nga Chủng,B2C,,Đang sử dụng
+281,MD.2DN.NGAHA,Đại lý Nga Hạ,B2C,,Đang sử dụng
+282,MD.2DN.NGATRUONG,Đại Lý Nga Trương,B2C,,Đang sử dụng
+283,MD.2DN.NGUYENVU,Đại lý Nguyên Vũ,B2C,,Đang sử dụng
+284,MD.2DN.NONGPHAT,Đại lý Nông Phát (HTX - SX - TM - DV - NN Lang Minh),B2C,,Đang sử dụng
+285,MD.2DN.PHUOC,CH VTNN Phước,B2C,,Đang sử dụng
+286,MD.2DN.PHUONGIDIEN,ĐẠI LÝ PHƯƠNG ĐIỀN,B2C,,Đang sử dụng
+287,MD.2DN.QUANGCANH,Cửa hàng VTNN Quang Cảnh,B2C,,Đang sử dụng
+288,MD.2DN.QUANGNHAT,Đại lý Quang Nhật,B2C,,Đang sử dụng
+289,MD.2DN.QUANGTRUNG,Đại Lý Quang Trung,B2C,,Đang sử dụng
+290,MD.2DN.SANGYEN,ĐẠI LÝ SÁNG YẾN,B2C,,Đang sử dụng
+291,MD.2DN.SAUYEN,Đại lý Sáu Yên,B2C,,Đang sử dụng
+292,MD.2DN.TANTUYET,Đại Lý Tân Tuyết,B2C,,Đang sử dụng
+293,MD.2DN.THANHTUYEN,Đại lý Thanh Tuyền,B2C,,Đang sử dụng
+294,MD.2DN.THAOTHA,Đại lý Thao Thà,B2C,,Đang sử dụng
+295,MD.2DN.THUHIEN,HTX TM DV Thu Hiền,B2C,,Đang sử dụng
+296,MD.2DN.THUYNGA,Đại Lý Thúy Nga,B2C,,Đang sử dụng
+297,MD.2DN.TINPHONG,CỬA HÀNG VTNN TÍN PHONG,B2C,,Đang sử dụng
+298,MD.2DN.TONAM,Đại Lý Tô Nam,B2C,,Đang sử dụng
+299,MD.2DN.TOTIEN,Đại Lý Tô Tiền,B2C,,Ngừng sử dụng
+300,MD.2DN.TRANHOAN,Đại lý Trần Hoan,B2C,,Đang sử dụng
+301,MD.2DN.THAOYEN,Đại lý Thảo Yến,B2C,,Đang sử dụng
+302,MD.2DN.UYENVI,Cửa Hàng VTNN Uyên Vi,B2C,,Đang sử dụng
+303,MD.2DN.VIETTHANG,ĐẠI LÝ VIỆT THẮNG,B2C,,Đang sử dụng
+304,MD.2DN.XUANLOC,ĐẠI LÝ NÔNG XANH XUÂN LỘC,B2C,,Đang sử dụng
+305,MD.2DN.XUANQUYNH,Đại lý Xuân Quỳnh,B2C,,Đang sử dụng
+306,MD.2TN.BAPHE,Đại lý Ba Phê,B2C,,Đang sử dụng
+307,MD.2TN.BAPHE2,Đại lý Ba Phê 2,B2C,,Đang sử dụng
+308,MD.2TN.BATHO,Đại lý Ba Thơ,B2C,,Đang sử dụng
+309,MD.2TN.BICHPHUONG,CH VTNN Bích Phượng,B2C,,Đang sử dụng
+310,MD.2TN.BINHCUONG,ĐẠI LÝ BÌNH CƯƠNG,B2C,,Đang sử dụng
+311,MD.2TN.BINHPHONG,Cửa hàng VTNN Bình Phong,B2C,,Đang sử dụng
+312,MD.2TN.CAMPHI,Đại Lý Cẩm Phỉ,B2C,,Đang sử dụng
+313,MD.2TN.CAOTAN,Đại lý phân bón Cao Tấn,B2C,,Đang sử dụng
+314,MD.2TN.DUCPHUC,HKD Đức Phúc,B2C,,Đang sử dụng
+315,MD.2TN.DUNGLEN,Đại lý Dũng Len,B2C,,Đang sử dụng
+316,MD.2TN.GIANG,Lục Bá Trường Giang,B2C,,Đang sử dụng
+317,MD.2TN.HAIMIEN,Đại Lý Hai Miên,B2C,,Đang sử dụng
+318,MD.2TN.HAINU,Đại lý Hai Nữ,B2C,,Đang sử dụng
+319,MD.2TN.MAILAN,Đại lý Mai Lan,B2C,,Đang sử dụng
+320,MD.2TN.NAMMANG,Đại Lý Năm Măng,B2C,,Đang sử dụng
+321,MD.2TN.NAMREM,Đại lý Năm Rem (Lê Thị Huệ),B2C,,Đang sử dụng
+322,MD.2TN.NONGTIN,Đại lý Nông Tín,B2C,,Đang sử dụng
+323,MD.2TN.PHUCBAO,Đại lý phúc Bảo,B2C,,Đang sử dụng
+324,MD.2TN.TAMLAN,Đại lý Tám Lan,B2C,,Đang sử dụng
+325,MD.2TN.THANHCONG,Đại lý Thành Công,B2C,,Đang sử dụng
+326,MD.2TN.THANHPHUONG,CH VTNN Thành Phương,B2C,,Đang sử dụng
+327,MD.2TN.TINNGHIA,Đại Lý Tín Nghĩa,B2C,,Đang sử dụng
+328,MD.2TN.TUTHANH,Đại Lý Tư Thành,B2C,,Đang sử dụng
+329,MD.2TN.UTTHANH,Đại lý Út Thành,B2C,,Đang sử dụng
+330,MD.2TN.VIETTHANG,HỘ KINH DOANH VIỆT THẮNG,B2C,,Đang sử dụng
+331,MD.2TN.VIHUYEN,Đai lý Vĩ Huyền,B2C,,Đang sử dụng
+332,MD.2VT.DUNGHOA,Đại lý Dũng Hoa,B2C,,Đang sử dụng
+333,MD.2VT.KHAINHU,CH VTNN Khải Như,B2C,,Đang sử dụng
+334,MD.2VT.PHUOCDUC,Đại lý Phước Đức,B2C,,Đang sử dụng
+335,MD.2VT.TUANBICH,Đại Lý Tuần Bích,B2C,,Đang sử dụng
+336,MD.VT.KIMLONG,Trang Trại Kim Long,B2C,,Đang sử dụng
+337,MT.2BĐ.BAOTOAN,Đại lý Bảo Toàn,B2C,,Đang sử dụng
+338,MT.2BD.CUONGPHAT,Đại lý Cường Phát,B2C,,Đang sử dụng
+339,MT.2BD.OANHNGUYEN,Đại lý Oanh Nguyện,B2C,,Đang sử dụng
+340,MT.2BD.TAMHA,Đại lý Tám Hà,B2C,,Đang sử dụng
+341,MT.2BD.THANHCUC,Đại lý Thanh Cúc,B2C,,Đang sử dụng
+342,MT.2KH.BABAC,Đại lý Cụm Ba Bắc,B2C,,Đang sử dụng
+343,MT.2KH.KHANHSON,CH VTNN Khánh Sơn,B2C,,Đang sử dụng
+344,MT.2NT.CODAO,Đại Lý Cô Đào ( Nguyễn Thị Đào ),B2C,,Đang sử dụng
+345,MT.2NT.DOANHUONG,Cửa hàng VTNN Đoan Hương,B2C,,Đang sử dụng
+346,MT.2NT.DUCTHUY,Đại lý Đức Thúy,B2C,,Đang sử dụng
+347,MT.2NT.DUYENSANG,Cửa hàng VTNN Duyên Sang,B2C,,Đang sử dụng
+348,MT.2NT.HOAHAI,Đại lý phân bón Hòa Hải,B2C,,Đang sử dụng
+349,MT.2NT.HOANGDAT,Đại lý Hoàng Đạt,B2C,,Đang sử dụng
+350,MT.2NT.HUUNGHIA,Đại Lý Võ Hữu Nghĩa,B2C,,Đang sử dụng
+351,MT.2NT.KHACPHONG,Đại lý Khắc Phòng,B2C,,Đang sử dụng
+352,MT.2NT.THACHHONG,Cửa hàng VTNN Thạch Hồng,B2C,,Đang sử dụng
+353,MT.2NT.THANHTIEN,Đại lý Thanh Tiến,B2C,,Đang sử dụng
+354,MT.2NT.TRUNGCHI,Cửa hàng VTNN Trung Chi,B2C,,Đang sử dụng
+355,MT.2NT.VANNGON,Đại Lý Vân Ngôn,B2C,,Đang sử dụng
+356,ND.2BT.VUONGTRANG,Cửa hàng VTNN Vương Trang,B2C,,Đang sử dụng
+357,NSH.1CT.BLINH,Nguyễn Bảo Linh,B2C,,Đang sử dụng
+358,NSH.2AG.ANAN,Cửa hàng VTNN An An,B2C,,Đang sử dụng
+359,NSH.2AG.ANHVY,CÔNG TY TNHH NC & PTTS Ánh Vy VN,B2C,,Đang sử dụng
+360,NSH.2AG.ANNGHIA,CH VTNN Mai Ân Nghĩa,B2C,,Đang sử dụng
+361,NSH.2AG.ANNONG,Đại Lý Việt An Nông,B2C,,Đang sử dụng
+362,NSH.2AG.CHAUPHUB,Hợp Tác Xã Châu Phú B,B2C,,Đang sử dụng
+363,NSH.2AG.CHILOC,CH VTNN Nguyễn Chí Lộc,B2C,,Đang sử dụng
+364,NSH.2AG.DUNGHANG,Cửa Hàng VTNN Dũng Hằng,B2C,,Đang sử dụng
+365,NSH.2AG.FARMVINH,FRAM ANH VINH ( ANH THÀNH),B2C,,Đang sử dụng
+366,NSH.2AG.HAINHANH,Cửa hàng VTNN Hai Nhanh,B2C,,Đang sử dụng
+367,NSH.2AG.HUUKINH,Cửa hàng VTNN Hữu Kĩnh,B2C,,Đang sử dụng
+368,NSH.2AG.KIEUTHAO,Cửa hàng VTNN Kiều Thảo,B2C,,Đang sử dụng
+369,NSH.2AG.KIMNGA,Đại Lý Kim Nga,B2C,,Đang sử dụng
+370,NSH.2AG.KIMNHUNG,CH VTNN Kim Nhung,B2C,,Đang sử dụng
+371,NSH.2AG.MINHDIEN,CH VTNN Khưu Minh Điền,B2C,,Đang sử dụng
+372,NSH.2AG.MYDUYEN,Đại Lý Mỹ Duyên (Nguyễn Ngọc Thành),B2C,,Đang sử dụng
+373,NSH.2AG.NAMAI,Cửa hàng VTNN Năm Ái,B2C,,Đang sử dụng
+374,NSH.2AG.NAMTRI,CH VTNN Năm Trí,B2C,,Đang sử dụng
+375,NSH.2AG.NGHIEMNHANH,Đại Lý Nghiêm Nhanh,B2C,,Đang sử dụng
+376,NSH.2AG.PHUCUYEN,HỘ KINH DOANH PHÚC UYÊN,B2C,,Đang sử dụng
+377,NSH.2AG.PHUOCSANG,Đại lý Phước Sang,B2C,,Đang sử dụng
+378,NSH.2AG.PHUONGHANH,Đại lý Phương Hạnh,B2C,,Đang sử dụng
+379,NSH.2AG.PHUONGTOAN,Đại Lý Phương Toàn,B2C,,Đang sử dụng
+380,NSH.2AG.SAUCHUA,Đại Lý Sáu Chưa,B2C,,Đang sử dụng
+381,NSH.2AG.SAUTHANH,Đại Lý Sáu Thành 2,B2C,,Đang sử dụng
+382,NSH.2AG.THANHPHE,Đại Lý Thành Phê,B2C,,Đang sử dụng
+383,NSH.2AG.THANHTAM,Cửa Hàng VTNN Thanh Tâm,B2C,,Đang sử dụng
+384,NSH.2AG.THANHTHAO,Đại Lý Thanh Thảo An Giang,B2C,,Đang sử dụng
+385,NSH.2AG.THONGHUONG,Đại Lý Thông Hường (Trần Văn Thông),B2C,,Đang sử dụng
+386,NSH.2AG.TRUONGTON,Đại Lý Trường Tồn,B2C,,Đang sử dụng
+387,NSH.2AG.TUTHAM,Đại Lý Tư Thắm,B2C,,Đang sử dụng
+388,NSH.2AG.TUTOI,Đại Lý Tư Tới,B2C,,Đang sử dụng
+389,NSH.2AG.UTLY,Đại Lý Út Ly,B2C,,Đang sử dụng
+390,NSH.2AG.UTNHON,Đại Lý Út Nhọn,B2C,,Đang sử dụng
+391,NSH.2AG.VANTAM,CH VTNN Văn Tâm,B2C,,Đang sử dụng
+392,NSH.2AG.VANTAY,Đại Lý Nguyễn Văn Tây,B2C,,Đang sử dụng
+393,NSH.2AG.XUANBICH,Đại Lý Xuân Bích,B2C,,Đang sử dụng
+394,NSH.2CT.ANHVU,Đại lý Mr Vũ Nông Trường Sông Hậu (new),B2C,,Đang sử dụng
+395,NSH.2CT.BAYLIET2,Đại lý Bảy Liệt 2,B2C,,Đang sử dụng
+396,NSH.2CT.BINHMINH,Đại lý Bình Minh,B2C,,Đang sử dụng
+397,NSH.2CT.CAMVAN,Đại Lý Cẩm Vấn,B2C,,Đang sử dụng
+398,NSH.2CT.DUCMINH,Đại Lý Đức Minh,B2C,,Đang sử dụng
+399,NSH.2CT.HIEPHUNG,Đại Lý Hiệp Hưng,B2C,,Đang sử dụng
+400,NSH.2CT.HONGNHIEN,Đại Lý Hồng Nhiên,B2C,,Đang sử dụng
+401,NSH.2CT.HUONGDONG,CH VTNN Hướng Đông,B2C,,Đang sử dụng
+402,NSH.2CT.HUUTAM,CH VTNN Hữu Tâm,B2C,,Đang sử dụng
+403,NSH.2CT.MINHHUNG,Cửa hàng VTNN Minh Hùng,B2C,,Đang sử dụng
+404,NSH.2CT.MINHKHUE,Đại Lý Minh Khuê,B2C,,Đang sử dụng
+405,NSH.2CT.NAMTUONG,Đại Lý Năm Tưởng,B2C,,Đang sử dụng
+406,NSH.2CT.NGOCNONG,CH VTNN Ngọc Nông,B2C,,Đang sử dụng
+407,NSH.2CT.NHUTHANH,ĐẠI LÝ NHƯ THANH,B2C,,Đang sử dụng
+408,NSH.2CT.NONGTRUONG,Đại lý Mr Vũ Nông Trường,B2C,,Đang sử dụng
+409,NSH.2CT.PHANDAT,Đại lý Phan Đạt,B2C,,Đang sử dụng
+410,NSH.2CT.PHUTHACH,ĐẠI LÍ PHÚ THẠCH,B2C,,Đang sử dụng
+411,NSH.2CT.TANNONG,Cửa hàng VTNN Tấn Nông,B2C,,Đang sử dụng
+412,NSH.2CT.TANPHAT,Cửa hàng VTNN Tấn Phát,B2C,,Đang sử dụng
+413,NSH.2CT.TULIT,Đại lý Tư Lít - Nguyễn Thị Thùy Hương,B2C,,Đang sử dụng
+414,NSH.2CT.USAFARM,Công Ty TNHH Usafarm,B2C,,Đang sử dụng
+415,NSH.2CT.WEED,Cty TNHH TM Weed,B2C,,Đang sử dụng
+416,NSH.2DT.ANKHANG,Cửa hàng VTNN An Khang,B2C,,Đang sử dụng
+417,NSH.2DT.BAON,Đại Lý Ba On,B2C,,Đang sử dụng
+418,NSH.2DT.BAOTRANG,CH VTNN Bảo Trang,B2C,,Đang sử dụng
+419,NSH.2DT.HUNGNONG,HKD VTNN Hưng Nông,B2C,,Đang sử dụng
+420,NSH.2DT.BATHO,Đại lý Ba Thơ,B2C,,Đang sử dụng
+421,NSH.2DT.BINHNHU,Đại Lý Bình Như,B2C,,Đang sử dụng
+422,NSH.2DT.CHINHONG,CH VTNN Chín Hồng,B2C,,Đang sử dụng
+423,NSH.2DT.CHINLOC,Đại lý Chín Lộc,B2C,,Đang sử dụng
+424,NSH.2DT.CHINTUOI,Cửa hàng VTNN Chín Tươi,B2C,,Đang sử dụng
+425,NSH.2DT.DUCHANH,CH VTNN Đức Hạnh,B2C,,Đang sử dụng
+426,NSH.2DT.DUYPHAT,Đại lý Duy Phát 2 ( Ngô Thị Thắm),B2C,,Đang sử dụng
+427,NSH.2DT.DUYSON,Đại Lý Bùi Duy Sơn,B2C,,Đang sử dụng
+428,NSH.2DT.DUYTAN,Điểm Bán VTNN Duy Tân 2,B2C,,Đang sử dụng
+429,NSH.2DT.GIAOAN,Cửa Hàng VTNN Giáo Ẩn,B2C,,Đang sử dụng
+430,NSH.2DT.HUNGDEO,Đại Lý Hùng Đèo,B2C,,Đang sử dụng
+431,NSH.2DT.HUNGTU,Cửa hàng VTNN Hùng Tú,B2C,,Đang sử dụng
+432,NSH.2DT.HUYNHNHU,ĐẠI LÝ QUỲNH NHƯ,B2C,,Đang sử dụng
+433,NSH.2DT.LENHA,Đại Lý Lê Nhã,B2C,,Đang sử dụng
+434,NSH.2DT.LIENTHANH,Đại Lý Liên Thành,B2C,,Đang sử dụng
+435,NSH.2DT.LOCPHAT,HKD VTNN MT Nông Lộc Phát,B2C,,Đang sử dụng
+436,NSH.2DT.NAMHONG,Đại Lý Năm Hồng,B2C,,Đang sử dụng
+437,NSH.2DT.NAMHONG3,Đại Lý Năm Hồng 3,B2C,,Đang sử dụng
+438,NSH.2DT.NAMHUNG,Đại lý Năm Hùng,B2C,,Đang sử dụng
+439,NSH.2DT.NAMLANH,Đại lý Năm Lành ( Đoàn Văn Lầu),B2C,,Đang sử dụng
+440,NSH.2DT.NAMLIEC,Đại Lý Năm Liếc,B2C,,Đang sử dụng
+441,NSH.2DT.NAMTRUONG,Đại Lý Năm Trường,B2C,,Đang sử dụng
+442,NSH.2DT.NGHIANHU,Đại Lý Nghĩa Như,B2C,,Đang sử dụng
+443,NSH.2DT.NGOCTUAN,Đại Lý Ngọc Tuấn,B2C,,Đang sử dụng
+444,NSH.2DT.NGOCUYEN,Cửa hàng VTNN Ngọc Uyên,B2C,,Đang sử dụng
+445,NSH.2DT.NGUYENHA,Đại Lý Nguyên Hà,B2C,,Đang sử dụng
+446,NSH.2DT.NONGTHINH,HỘ KINH DOANH CỬA HÀNG VẬT TƯ NÔNG NGHIỆP NÔNG THỊNH (NGUYỄN NAM VIỆT),B2C,,Đang sử dụng
+447,NSH.2DT.PHUNHUAN,Đại Lý Phú Nhuận,B2C,,Đang sử dụng
+448,NSH.2DT.PHUOCTHANH,Đại Lí Phước thành,B2C,,Đang sử dụng
+449,NSH.2DT.PHUONGLEN,Đại lý Phương Len,B2C,,Đang sử dụng
+450,NSH.2DT.PHUTRUNG,Đại lý Phú Trung,B2C,,Đang sử dụng
+451,NSH.2DT.QUANGKHAI,CỬA HÀNG VTNN NGUYỄN QUANG KHẢI (NGUYỄN VĂN PHỤNG),B2C,,Đang sử dụng
+452,NSH.2DT.SANGDUYEN,Cửa Hàng VTNN Sang Duyên,B2C,,Đang sử dụng
+453,NSH.2DT.SONGIANG,Đại Lý Sơn Giang,B2C,,Đang sử dụng
+454,NSH.2DT.SUHANH,Đại Lý Kỹ Sư Hạnh,B2C,,Đang sử dụng
+455,NSH.2DT.TAMQUANH,Đại lý Tám Quảnh (Lê Trinh),B2C,,Đang sử dụng
+456,NSH.2DT.THANHCONG,Cửa hàng VTNN Thành Công,B2C,,Đang sử dụng
+457,NSH.2DT.THANHDAO,Đại lý Thanh Đào,B2C,,Đang sử dụng
+458,NSH.2DT.THETIET,Đại lý Khương Thế Tiết,B2C,,Đang sử dụng
+459,NSH.2DT.THUTHAO,Cửa hàng VTNN Thu Thảo,B2C,,Đang sử dụng
+460,NSH.2DT.THUYTRANG,Cửa Hàng VTNN Thùy Trang,B2C,,Đang sử dụng
+461,NSH.2DT.TRUCHANH,Đại Lý Trúc Hạnh,B2C,,Đang sử dụng
+462,NSH.2DT.TUANPHAT3,Đại Lý Tuấn Phát 3,B2C,,Đang sử dụng
+463,NSH.2DT.TUYENNUONG,CH VTNN Tuyến Nương,B2C,,Đang sử dụng
+464,NSH.2DT.UTHUNG,Đại Lý Út Hùng,B2C,,Đang sử dụng
+465,NSH.2DT.VANCHUONG,Đại Lý Văn Chương - Cô 9 Chương,B2C,,Đang sử dụng
+466,NSH.2DT.VANDUNG,Cửa hàng VTNN Nguyễn Văn Dũng,B2C,,Đang sử dụng
+467,NSH.2DT.VANDUONG,CH VTNN Ngô Văn Dưỡng,B2C,,Đang sử dụng
+468,NSH.2DT.VANTHEO,CH VTNN Phan Văn Theo,B2C,,Đang sử dụng
+469,NSH.2DT.VUTRINH,CH VTNN Vũ Trinh,B2C,,Đang sử dụng
+470,NSH.2HG.BAYOANH,Đại Lý Bảy Oanh,B2C,,Đang sử dụng
+471,NSH.2HG.TRUNGTICH,Đại Lý Trung Tích,B2C,,Đang sử dụng
+472,NSH.2HG.TUONGHUNG,Cửa hàng VTNN Tường Hưng,B2C,,Đang sử dụng
+473,NSH.2KG.PHUNONG,ĐẠI LÝ PHÚ NÔNG,B2C,,Đang sử dụng
+474,NSH.2KG.QUANGCUONG,Hộ Kinh Doanh Quang Cường,B2C,,Đang sử dụng
+475,NSH.2ST.HUUTRI,Đại lý Hữu Trí,B2C,,Đang sử dụng
+476,NSH.2ST.NAMVO,Đại Lý Năm Võ,B2C,,Đang sử dụng
+477,NSH.2ST.SAUNGAY,Cửa hàng VTNN Sáu Ngay,B2C,,Đang sử dụng
+478,TN.1GL.LOCPHUONG,Cửa Hàng Phân Bón Lộc Phương (PP),B2C,,Đang sử dụng
+479,TN.2BD.BADANH,Đại Lý Ba Danh,B2C,,Đang sử dụng
+480,TN.2DL.ANTHANH,HKD Nguyễn An Thạnh,B2C,,Đang sử dụng
+481,TN.2DL.BANME,Cửa hàng VTNN Eco Ban Mê,B2C,,Đang sử dụng
+482,TN.2DL.BAONONG,ĐẠI LÝ BẢO NÔNG I,B2C,,Đang sử dụng
+483,TN.2DL.BICHTRAM,ĐẠI LÝ BÍCH TRÂM,B2C,,Đang sử dụng
+484,TN.2DL.CHUONGTRINH,ĐẠI LÝ CHƯƠNG TRINH,B2C,,Đang sử dụng
+485,TN.2DL.COBAY,VTNN Cô Bày,B2C,,Đang sử dụng
+486,TN.2DL.DAODIEP5,Đại Lý Đào Điệp 5,B2C,,Đang sử dụng
+487,TN.2DL.DUCCHUNG,Đại lý Đức Chung,B2C,,Đang sử dụng
+488,TN.2DL.DUNGDUYEN,ĐẠI LÝ DŨNG DUYÊN,B2C,,Đang sử dụng
+489,TN.2DL.DUNGDUYEN2,ĐẠI LÝ DŨNG DUYÊN 2,B2C,,Đang sử dụng
+490,TN.2DL.DUNGNGAN,Đại Lý Dũng Ngân,B2C,,Đang sử dụng
+491,TN.2DL.DUNGVAN,CỬA HÀNG VTNN DŨNG VÂN,B2C,,Đang sử dụng
+492,TN.2DL.DUOCVIET,ĐẠI LÝ NÔNG DƯỢC VIỆT,B2C,,Đang sử dụng
+493,TN.2DL.DUYTHANG,HKD VÕ DUY THẮNG,B2C,,Đang sử dụng
+494,TN.2DL.FARM,Đại lý Fram,B2C,,Đang sử dụng
+495,TN.2DL.HAI,HUỲNH THANH HẢI,B2C,,Đang sử dụng
+496,TN.2DL.HAINGOC,ĐẠI LÝ HAI NGỌC,B2C,,Đang sử dụng
+497,TN.2DL.HAITRIEU,Đại Lý Hải Triều,B2C,,Đang sử dụng
+498,TN.2DL.HANHPHUC,Đại lý Hạnh Phúc,B2C,,Đang sử dụng
+499,TN.2DL.HATHU,ĐẠI LÝ Hà Thu,B2C,,Đang sử dụng
+500,TN.2DL.HIEPHUONG,Đại lý Hiệp Hương,B2C,,Đang sử dụng
+501,TN.2DL.HJENBYA,Đại Lý H'Jen Bya,B2C,,Đang sử dụng
+502,TN.2DL.HOANGBINH,HKD HOÀNG BÌNH,B2C,,Đang sử dụng
+503,TN.2DL.HOANGHUONG,Đại Lý Hoàng Hương,B2C,,Đang sử dụng
+504,TN.2DL.HOANGVU,Đại Lý Hoàng Vũ 2,B2C,,Đang sử dụng
+505,TN.2DL.HOATHONG,ĐẠI LÝ HOA THÔNG,B2C,,Đang sử dụng
+506,TN.2DL.HONGNGA,Đại Lý Hồng Nga,B2C,,Đang sử dụng
+507,TN.2DL.HUETHU,DNTN TM  HUỆ THU,B2C,,Đang sử dụng
+508,TN.2DL.HUETHUY,Đại Lý Huế Thủy (PHẠM VĂN HUẾ),B2C,,Đang sử dụng
+509,TN.2DL.HUNGPHAT,Đại lý Hưng Phát,B2C,,Đang sử dụng
+510,TN.2DL.KHANHLINH,ĐẠI LÝ KHÁNH LINH,B2C,,Đang sử dụng
+511,TN.2DL.KHANHLINH1,ĐẠI LÝ KHÁNH LINH 1,B2C,,Đang sử dụng
+512,TN.2DL.KHANHNGAN,Đại Lý Khánh Ngân,B2C,,Đang sử dụng
+513,TN.2DL.KIMLONG,ĐẠI LÝ KIM LONG (LONG LIỄU),B2C,,Đang sử dụng
+514,TN.2DL.KIMTHANH,Đại Lý Kim Thành,B2C,,Đang sử dụng
+515,TN.2DL.LANANH,Đại Lý Lan Anh,B2C,,Đang sử dụng
+516,TN.2DL.LEVY,ĐẠI LÝ LÊ VY,B2C,,Đang sử dụng
+517,TN.2DL.LIENPHAY,Đại Lý Liên Phay,B2C,,Đang sử dụng
+518,TN.2DL.LOIPHAT,Hộ Kinh Doanh Lợi Phát,B2C,,Đang sử dụng
+519,TN.2DL.MAINGUYEN,Đại lý Mai Nguyên,B2C,,Đang sử dụng
+520,TN.2DL.MANHHUYEN,ĐẠI LÝ MẠNH HUYỀN,B2C,,Đang sử dụng
+521,TN.2DL.MINHKHANH,Đại Lý Minh Khanh,B2C,,Đang sử dụng
+522,TN.2DL.MUAVANG,Đại Lý Mùa Vàng,B2C,,Đang sử dụng
+523,TN.2DL.NGOCVY,CHPB Nông Dược Ngọc Vy,B2C,,Đang sử dụng
+524,TN.2DL.NONGPHAT,Đại lý Nông Phát,B2C,,Đang sử dụng
+525,TN.2DL.NSKIMTHANH,Nông Sản Kim Thành,B2C,,Đang sử dụng
+526,TN.2DL.PHONGLOAN,ĐẠI LÝ PHONG LOAN,B2C,,Đang sử dụng
+527,TN.2DL.QUYXOAN,Đại lý Qúy Xoan,B2C,,Đang sử dụng
+528,TN.2DL.SAUTHE,ĐẠI LÝ SÁU THỂ,B2C,,Đang sử dụng
+529,TN.2DL.TANPHAT,ĐẠI LÝ TẤN PHÁT,B2C,,Đang sử dụng
+530,TN.2DL.THANGNHI,Đại Lý Thắng Nhi,B2C,,Đang sử dụng
+531,TN.2DL.THANHMUOI,ĐẠI LÝ THÀNH MƯỜI,B2C,,Đang sử dụng
+532,TN.2DL.THANHNONG,ĐẠI LÝ THÀNH NÔNG,B2C,,Đang sử dụng
+533,TN.2DL.THANHXUAN,Cửa hàng VTNN Thanh Xuân,B2C,,Đang sử dụng
+534,TN.2DL.THUHIEN,Đại lý Thu Hiền,B2C,,Đang sử dụng
+535,TN.2DL.THUYLAN,Đại lý Thùy Lan ( Nguyễn Thị Thùy Lan),B2C,,Đang sử dụng
+536,TN.2DL.THUYSI55,Phân bón Pháp - Thụy Sĩ55,B2C,,Đang sử dụng
+537,TN.2DL.TRANGTHINH,Đại Lý Trang Thịnh,B2C,,Đang sử dụng
+538,TN.2DL.VANHUONG,Đại Lý Nông Dược Văn Hường,B2C,,Đang sử dụng
+539,TN.2DL.VINHHOI,Đại lý Vinh Hợi,B2C,,Đang sử dụng
+540,TN.2DL.VINHSEN,Đại lý Vinh Sen,B2C,,Đang sử dụng
+541,TN.2DN.ANHKHOI,ĐẠI LÝ ANH KHÔI (NGUYỄN NGỌC LONG),B2C,,Đang sử dụng
+542,TN.2DN.BICHDAO,HKD Bích Đào 3,B2C,,Đang sử dụng
+543,TN.2DN.CANHVAN,Cửa Hàng VTNN Cảnh Vân,B2C,,Đang sử dụng
+544,TN.2DN.DUNGHUONG,ĐẠI LÝ DŨNG HƯƠNG,B2C,,Đang sử dụng
+545,TN.2DN.DUYTHE,ĐẠI LÝ DUY THẾ,B2C,,Đang sử dụng
+546,TN.2DN.HOANGNGUYEN,Đại Lý Hoàng Nguyên,B2C,,Đang sử dụng
+547,TN.2DN.HOANGPHI,Lê Hoàng Phi,B2C,,Đang sử dụng
+548,TN.2DN.HOANONG,ĐẠI LÝ HÓA NÔNG,B2C,,Đang sử dụng
+549,TN.2DN.HUNGTHINH,Đại Lý Hưng Thịnh (Nguyễn Thị Thắm),B2C,,Đang sử dụng
+550,TN.2DN.KHANHDUONG,Đại lý Khánh Dương,B2C,,Đang sử dụng
+551,TN.2DN.KIENKIM,Đại lý Kiên Kim,B2C,,Đang sử dụng
+552,TN.2DN.KIEUNHAN,Đại lý Kiều Nhàn,B2C,,Đang sử dụng
+553,TN.2DN.LE,Trần Nguyên Lê,B2C,,Đang sử dụng
+554,TN.2DN.LEUYEN,Đại lý Lệ Uyên (Lê Trần Lệ Uyên),B2C,,Đang sử dụng
+555,TN.2DN.LOCPHAT,Đại Lý Lộc Phát,B2C,,Đang sử dụng
+556,TN.2DN.MUOINGOC,ĐẠI LÝ MƯỜI NGỌC,B2C,,Đang sử dụng
+557,TN.2DN.NGOCTUNG,ĐẠI LÝ NGỌC TÙNG,B2C,,Đang sử dụng
+558,TN.2DN.NGUYENDUONG,Đại lý Nguyên Dương,B2C,,Đang sử dụng
+559,TN.2DN.NGUYENLAI,ĐẠI LÝ NGUYỄN LÀI,B2C,,Đang sử dụng
+560,TN.2DN.NGUYENPHU,Đại Lý Nguyên Phú,B2C,,Đang sử dụng
+561,TN.2DN.NHIENPHU,Doanh Nghiệp Tư Nhân Nhiên Phú,B2C,,Đang sử dụng
+562,TN.2DN.NONGPHAT,VTNN Nông Phát,B2C,,Đang sử dụng
+563,TN.2DN.PHANNGUYEN,Đại lý Phan Nguyễn,B2C,,Đang sử dụng
+564,TN.2DN.QUYETTHANG,ĐẠI LÝ PHAN QUYẾT THẮNG (Pháp Thuỵ Sỹ 2),B2C,,Đang sử dụng
+565,TN.2DN.THANHNHAN,Đại lý Thanh Nhàn,B2C,,Đang sử dụng
+566,TN.2DN.TRINHHOAN,Đại lý Trinh Hoan (NGUYỄN VĂN HOAN),B2C,,Đang sử dụng
+567,TN.2DN.TRONGTHUAN,Đại Lý Nguyễn Trọng Thuận,B2C,,Đang sử dụng
+568,"TN.2DN,TRUNGDUONG",ĐẠI LÝ TRÙNG DƯƠNG,B2C,,Đang sử dụng
+569,TN.2DN.TUANDIEU,Đại Lý Tuấn Diệu,B2C,,Đang sử dụng
+570,TN.2DN.TUANHANG,Đại lý Tuấn Hằng (Hoàng Đình Dân),B2C,,Đang sử dụng
+571,"TN.2DN,TUYENHANH",ĐẠI LÝ Tuyến Hạnh,B2C,,Đang sử dụng
+572,TN.2DN.TUYETNHUNG,CH VTNN Tuyết Nhung,B2C,,Đang sử dụng
+573,TN.2DN.VINHHOA,Đại lý Vinh Hoa ( Đậu Thị Vinh),B2C,,Đang sử dụng
+574,TN.2GL.BAOKHANG,Đại lý Bảo Khang,B2C,,Đang sử dụng
+575,TN.2GL.BICH,ĐẠI LÝ BÍCH,B2C,,Đang sử dụng
+576,TN.2GL.BINHTHAN,Đại Lý Bình Thân,B2C,,Đang sử dụng
+577,TN.2GL.DAINGHIA,ĐẠI LÝ ĐẠI NGHĨA,B2C,,Đang sử dụng
+578,TN.2GL.DALAT,ĐẠI LÝ NÔNG DƯỢC ĐÀ LẠT,B2C,,Đang sử dụng
+579,TN.2GL.DUNGTHUY,ĐẠI LÝ DŨNG THỦY,B2C,,Đang sử dụng
+580,TN.2GL.GIANGTHAO,Đại Lý Giang Thảo,B2C,,Đang sử dụng
+581,TN.2GL.HAIQUYEN,Đại Lý Hải Quyên,B2C,,Đang sử dụng
+582,TN.2GL.HIENNHAI,ĐẠI LÝ HIỀN NHÀI,B2C,,Đang sử dụng
+583,TN.2GL.HIENSU,Đại lý Hiền Su,B2C,,Đang sử dụng
+584,TN.2GL.HOANGBAY,Đại Lý Hoàng Bảy,B2C,,Đang sử dụng
+585,TN.2GL.HOANGDUNG,ĐẠI LÝ HOÀNG DŨNG,B2C,,Đang sử dụng
+586,TN.2GL.HOANGHAU,Đại lý Hoàng Hậu (BL),B2C,,Đang sử dụng
+587,TN.2GL.HOANGMINH,Công Ty TNHH Nông Nghiệp Hoàng Minh,B2C,,Đang sử dụng
+588,TN.2GL.HOANGNONG,ĐẠI LÝ HOÀNG NÔNG,B2C,,Đang sử dụng
+589,TN.2GL.HUNGDIEU,Đại Lý Hùng Diệu,B2C,,Đang sử dụng
+590,TN.2GL.HUNGHIEU,Đại lý Hưng Hiếu,B2C,,Đang sử dụng
+591,TN.2GL.HUNGTHUY,Cửa Hàng VTNN Hưng Thủy,B2C,,Đang sử dụng
+592,TN.2GL.KHANHNGUYEN,Đại lý Khánh Nguyên,B2C,,Đang sử dụng
+593,TN.2GL.KIMCONG,Đại lý Kim Công,B2C,,Đang sử dụng
+594,TN.2GL.LANHHUE,ĐẠI LÝ LANH HUỆ,B2C,,Đang sử dụng
+595,TN.2GL.LETHUONG,Đại Lý Lê Thương,B2C,,Đang sử dụng
+596,TN.2GL.LOCPHUONG,Cửa Hàng Phân Bón Lộc Phương (BL),B2C,,Đang sử dụng
+597,TN.2GL.MIENTRUNG,Đại Lý Cơ Sở Miền Trung,B2C,,Đang sử dụng
+598,TN.2GL.MUOIHIEP,DNTN Mười Hiệp,B2C,,Đang sử dụng
+599,TN.2GL.MYVAN,ĐẠI LÝ MỸ VÂN,B2C,,Đang sử dụng
+600,TN.2GL.NAMTHOM,ĐẠI LÝ NĂM THƠM,B2C,,Đang sử dụng
+601,TN.2GL.NGHIEPXANH,Đại Lý Nông Nghiệp Xanh,B2C,,Đang sử dụng
+602,TN.2GL.NGUYENXANH,ĐẠI LÝ THẢO NGUYÊN XANH,B2C,,Đang sử dụng
+603,TN.2GL.NONGXANH,Đại Lý Nông Xanh,B2C,,Đang sử dụng
+604,TN.2GL.PHONGNHAN,Đại Lý Phong Nhàn,B2C,,Đang sử dụng
+605,TN.2GL.PHUONGQUANG,Đại lý Phương Quang,B2C,,Đang sử dụng
+606,TN.2GL.QUANGBA,Đại Lý Phân Bón Quang Ba,B2C,,Đang sử dụng
+607,TN.2GL.QUANGTRUNG,ĐẠI LÝ QUANG TRUNG,B2C,,Đang sử dụng
+608,TN.2GL.QUANGVINH,Đại lý Quang Vĩnh,B2C,,Đang sử dụng
+609,TN.2GL.QUOCTRUNG,ĐẶNG QUỐC TRUNG,B2C,,Đang sử dụng
+610,TN.2GL.QUYAN,ĐẠI LÝ QUÝ AN,B2C,,Đang sử dụng
+611,TN.2GL.SONGTHUONG,Đại lý PB Sông Thương,B2C,,Đang sử dụng
+612,TN.2GL.TANVIET,Công ty TNHH Phát Triển Nông Nghiệp Sơn Tân Việt.,B2C,,Đang sử dụng
+613,TN.2GL.TAYPHAT,CÔNG TY TNHH MTV HẢI TÂY PHÁT,B2C,,Đang sử dụng
+614,TN.2GL.THAITOAI,ĐẠI LÝ THÁI TOẠI,B2C,,Đang sử dụng
+615,TN.2GL.THANHTHAO,Đại lý Thanh Thảo,B2C,,Đang sử dụng
+616,TN.2GL.THINHPHAT,Đại Lý Thịnh Phát,B2C,,Đang sử dụng
+617,TN.2GL.TOAITHAI,Đại Lý Toại Thái (Cơ Sở 2),B2C,,Đang sử dụng
+618,TN.2GL.VANCHIEN,Đại Lý Vân Chiến,B2C,,Đang sử dụng
+619,TN.2GL.VIENNGON,Đại Lý Viện Ngọn,B2C,,Đang sử dụng
+620,TN.2GL.VINHHOANG,Công ty TNHH Vinh Hoàng,B2C,,Đang sử dụng
+621,TN.2GL.XUYENVI,Đại Lý Xuyến Vi,B2C,,Đang sử dụng
+622,TN.2KONTUM.HAITINH,Đại lý Hải Tình,B2C,,Đang sử dụng
+623,TN.2KT.THANHTUNG,CH VTNN Thanh Tùng,B2C,,Đang sử dụng
+624,TN.2LD.PHU,Hà Duy Phú,B2C,,Đang sử dụng
+625,TN.2GL.THANHTAM,Đại Lý Thanh Tâm,B2C,,Đang sử dụng
+626,TN.2DL.MAIPHUONG,Đại Lý Mai Phương,B2C,,Đang sử dụng
+627,TN.2DL.THANHNGUYEN2,Đại Lý Thanh Nguyên 2,B2C,,Đang sử dụng
+628,TN.2DN.TUYENHANH,ĐẠI LÝ Tuyến Hạnh,B2C,,Đang sử dụng
+629,MD.2DN.THANHTHUY,Đại lý Thanh Thuỷ,B2C,,Đang sử dụng
+630,MD.2VT.ANHHIEN,Đại Lý Anh Hiển BRVT,B2C,,Đang sử dụng
+631,NSH.2DT.PHONGCHI,Đại Lý Phong Chi,B2C,,Đang sử dụng
+632,TN.2GL.MINHHIEU,HKD TRẦN MINH HIẾU,B2C,,Đang sử dụng
+633,TN.2GL.THAIBINH,THÁI BÌNH IAGRAI,B2C,,Đang sử dụng
+634,TN.2DL.ANNGUYEN,ĐẠI LÝ AN NGUYÊN,B2C,,Đang sử dụng
+635,TN.2DL.NONGTHINH,VTNN NÔNG THỊNH,B2C,,Đang sử dụng
+636,LD.2LD.RCHAI2,Đại Lý Rchai 2,B2C,,Đang sử dụng
+637,NSH.2DT.TIENPHONG,Đại Lý Tiên Phong,B2C,,Đang sử dụng
+638,NSH.2HG.PHONGNHI,CỬA HÀNG VTNN PHONG NHI,B2C,,Đang sử dụng
+639,MD.2BP.BAONONGPHAT,Cửa hàng VTNN Bảo Nông Phát,B2C,,Đang sử dụng
+640,NSH.2AG.KIEUTRANG,Ôn Thị Kiều Trang,B2C,,Đang sử dụng
+641,NSH.2DT.HUNGNONG1,Đại Lý Hưng Nông,B2C,,Đang sử dụng
+642,MD.2DN.TIENDUNG,CÔNG TY TNHH BVTV TIẾN DŨNG,B2C,,Đang sử dụng
+643,LD.2DL.HUYHOANG,Đại Lý Huy Hoàng,B2C,,Đang sử dụng
+644,LD.2LD.NAMTRANG,Đại Lý Nam Trang,B2C,,Đang sử dụng
+645,MT.2BD.MIENTRUNG,CÔNG TY TNHH GIỐNG CÂY TRỒNG MIỀN TRUNG,B2C,,Đang sử dụng
+646,MD.2DN.XUANTHANH,HTX DVNN XUÂN THANH,B2C,,Đang sử dụng
+647,LD.2LD.LAMDUYEN,Đại lý Lâm Duyên,B2C,,Đang sử dụng
+648,MD.2DN.DINHCHINH,Đại lý Đình Chính,B2C,,Đang sử dụng
+649,LD.2LD.VINHGIAO,Đại lý Vịnh Giao,B2C,,Đang sử dụng
+650,MD.2BP.DANGKHOA2,HKD VTNN ĐĂNG KHOA 2,B2C,,Đang sử dụng
+651,LD.2LD.NGOCQUY,Đại lý Ngọc Quý,B2C,,Đang sử dụng
+652,LD.2LD.VINHNHUONG,Đại lý Vinh Nhường,B2C,,Đang sử dụng
+653,LD.2LD.QUANGHUY,Đại lý Quang Huy,B2C,,Đang sử dụng
+654,TN.2DN.LOANTHUY,Đại Lý Loan Thủy,B2C,,Đang sử dụng
+655,MD.2DN.PHAMQUOCHOI,Phạm Quốc Hội,B2C,,Đang sử dụng
+656,MD.2TN.THUTHAO,Đại lý Thu Thảo,B2C,,Đang sử dụng
+657,TN.2DN.DUCTHANG,Nguyễn Đức Thắng,B2C,,Đang sử dụng
+658,LD.2DL.ANHTRANG,HỘ KINH DOANH ANH TRANG,B2C,,Đang sử dụng
+659,TN.2GL.LOCPHAT,HKD LỘC PHÁT,B2C,,Đang sử dụng
+660,LD.2DL.THUTHUY,HỘ KINH DOANH MAI THỊ THU THỦY,B2C,,Đang sử dụng
+661,MD.2BP.VANMANH,Đại lý Văn Mạnh,B2C,,Đang sử dụng
+662,LD.2LD.PHATNONG,Thức Phát Nông,B2C,,Đang sử dụng
+663,BSH.2LA.ANHQUYEN,Đại Lý TRẦN VĂN QUYỀN,B2C,,Đang sử dụng
+664,TN.2DN.VINHLOAN,Đại Lý VINH LOAN (ĐỖ VĂN VINH),B2C,,Đang sử dụng
+665,TN.2DL.BATHANH,Đại Lý Ba Thành,B2C,,Đang sử dụng
+666,LD.2DL.DUNGMY2,Đại Lý DŨNG MỸ 2 (PHẠM GIA QUYỀN),B2C,,Đang sử dụng
+667,LD.2LD.NGUYENDIEM,Đại Lý Nguyên Diễm,B2C,,Đang sử dụng
+668,TN.2GL.BINHPHUONG,Đại Lý Bình Phương (UNG NHO PHO),B2C,,Đang sử dụng
+669,NSH.2CT.HUUTHANG,Đại Lý Hữu Thắng,B2C,,Đang sử dụng
+670,NSH.2HG.TRUCMINH,CH VTNN Trúc Minh,B2C,,Đang sử dụng
+671,TN.2GL.VANNHAN,HKD NGUYỄN VĂN NHÀN,B2C,,Đang sử dụng
+672,TN.2DN.THUYLUYEN,Đại Lý THỦY LUYÊN,B2C,,Đang sử dụng
+673,TN.2DN.HOANGMINH,Đại lý Hoàng Minh,B2C,,Đang sử dụng
+674,MT.2BD.BADANH,Đại Lý Ba Danh,B2C,,Đang sử dụng
+675,NSH.2DT.TU,Đại Lý Tú,B2C,,Đang sử dụng
+676,LD.2LD.HIENPHAT2,Đại Lý Quang Huy Hiền Phát 2,B2C,,Đang sử dụng
+677,TN.2GL.TRUONGAN,Đại Lý VTNN Trường An,B2C,,Đang sử dụng
+678,SON.PH.KD,Phan Hồng Sơn,B2C,,Đang sử dụng
+679,TN.2DN.TIENVINH,Đại Lý TIẾN VINH,B2C,,Đang sử dụng
+680,TN.2DN.DUONGLY,ĐƯƠNG LY,B2C,,Đang sử dụng
+681,MD.2DN.GIAHAN,Đại Lý Gia Hân,B2C,,Đang sử dụng
+682,MT.2KH.VN79,CTY TNHH DVTM VN79 (MR. CAO NGUYEN),B2C,,Đang sử dụng
+683,MT.2NT.HOANGANH,Đại Lý HOÀNG ANH (Hồ Thị Thu Hà),B2C,,Đang sử dụng
+684,TN.2DN.THANHCONG,Đại Lý Thành Công ( Vũ Văn Đoan),B2C,,Đang sử dụng
+685,TN.2DN.DANLUYEN,Đại Lý Đàn Luyên (Lã Văn Đàn),B2C,,Đang sử dụng
+686,TRI.DX.KD,Đoàn Xuân Trí,B2C,,Đang sử dụng
+687,TN.2GL.HAUTHANH,Đại Lý Hậu Thanh,B2C,,Đang sử dụng
+688,MD.2DN.KOBE,CTY XNK VTNN KOBE NB,B2C,,Đang sử dụng
+689,LD.2LD.HUONGGIANG,Cửa hàng VTNN Hương Giang,B2C,,Đang sử dụng
+690,TN.2DN.QUYNHNHU,QUỲNH NHƯ,B2C,,Đang sử dụng
+691,TN.2DN.HOANGPHAT,HOÀNG PHÁT,B2C,,Đang sử dụng
+692,TN.2DN.NGOCPHUOC,NGỌC PHƯỚC,B2C,,Đang sử dụng
+693,TN.2DN.NAMLOAN,NAM LOAN,B2C,,Đang sử dụng
+694,MD.2BP.NONGVIET,Đại Lý Bảo Nông Việt,B2C,,Đang sử dụng
+695,TN.2DN.TRUCDIEM,TRÚC DIỄM (Biện Thị Diễm Kiều),B2C,,Đang sử dụng
+696,TN.2DN.DANGDUONG,Đại Lý ĐĂNG DƯƠNG ,B2C,,Đang sử dụng
+697,TN.2DL.DUCLINH,Đại Lý Đức Linh,B2C,,Đang sử dụng
+698,MD.2BP.NNXANH,HTX NÔNG NGHIỆP XANH BP,B2C,,Đang sử dụng
+699,CTY.1DN.NGOCVU,Ngọc Vũ,B2C,,Đang sử dụng
+700,TN.2DL.NONGVIETPHAT,VTNN NÔNG VIỆT PHÁT,B2C,,Đang sử dụng
+701,MD.2BP.QUANGVINH,CỬA HÀNG VTNN  QUANG VINH,B2C,,Đang sử dụng
+702,MD.2DN.ROMO,CHÂU HỮU THỊNH,B2C,,Đang sử dụng
+703,TN.2GL.MYLINH,ĐL MỸ LINH,B2C,,Đang sử dụng
+704,TN.2DL.THANHHA,BVTV THANH HÀ,B2C,,Đang sử dụng
+705,TN.2DL.MINHNHAT,Đại lý Minh Nhật (Đậu Bá Quảng),B2C,,Đang sử dụng
+706,LINH.NB.KD,Nguyễn Bảo Linh,B2C,,Đang sử dụng
+707,MD.2BT.HTXNNHAMNHON2,HTX NN HÀM NHƠN 2,B2C,,Đang sử dụng
+708,LD.2LD.HUUTRI,Đại Lý Hữu Trí,B2C,,Đang sử dụng
+709,LD.2LD.TRANLOC,TRẦN THÀNH LỘC,B2C,,Đang sử dụng
+710,MB.2HD.HUNGHUY,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ HƯNG HUY,B2C,,Đang sử dụng
+711,MD.2DN.VANTHONG,VÂN THÔNG,B2C,,Đang sử dụng
+712,TN.2GL.NGOCMINH,ĐẠI LÝ NGỌC MINH,B2C,,Đang sử dụng
+713,TN.2DN.HIENHOA,Đại lý Hiền Hoà,B2C,,Đang sử dụng
+714,BSH.2TG.TUCAM,ĐẠI LÝ TƯ CAM,B2C,,Đang sử dụng
+715,MD.2DN.HAIANH,Đại lý Hải Anh,B2C,,Đang sử dụng
+716,MD.2DN.ANTHINH,Đại lý An Thịnh,B2C,,Đang sử dụng
+717,MD.2BP.NGAOANH,ĐẠI LÝ NGA OÁNH,B2C,,Đang sử dụng
+718,TN.2DL.HONGPHONG,Đại lý Hồng Phong,B2C,,Đang sử dụng
+719,TN.2DL.QUANGMINH,Đại lý Quang Minh,B2C,,Đang sử dụng
+720,TN.2DN.TUBAN,Đại lý Tư Bàn ,B2C,,Đang sử dụng
+721,MD.2DN.SINHHOC2,CH VTNN SINH HỌC 2,B2C,,Đang sử dụng
+722,MD.2DN.TUDUOC,Đại lý Tư Dược,B2C,,Đang sử dụng
+723,MD.2DN.LINH,Đại lý Linh Km135,B2C,,Đang sử dụng
+724,TN.2DN.NGOCTRAM,Đại lý Ngọc Trâm,B2C,,Đang sử dụng
+725,BSH.2TG.DUCBAY,ĐẠI LÝ ĐỰC BẢY,B2C,,Ngừng sử dụng
+726,TN.2DL.LOCVUONG,VTNN AN LỘC VƯỢNG,B2C,,Đang sử dụng
+727,NSH.2AG.HOANGTUAN,Đại Lý Huỳnh Hoàng Tuấn,B2C,,Đang sử dụng
+728,MD.2DN.THANHHOAI,Đại lý Thanh Hoài,B2C,,Đang sử dụng
+729,MD.DN.TANLOC,Đại lý Tấn Lộc 5 rưỡi,B2C,,Đang sử dụng
+730,TN.2DL.TUANLIEN,ĐẠI LÝ TUẤN LIÊN,B2C,,Đang sử dụng
+731,NSH.2CT.KHANHKHOA,Đại Lý Trần Khánh Khoa,B2C,,Đang sử dụng
+732,TN.2DN.KYSUXUAN,Đại Lý Kỹ Sư Xuân,B2C,,Đang sử dụng
+733,PHI.LH.KD,Lê Hồng Phi,B2C,,Đang sử dụng
+734,	 MD.2BP.VANTAM,NGUYỄN VĂN TÂM,B2C,,Đang sử dụng
+735,TN.2GL.MAILAP,Đại lý Mai Lập,B2C,,Đang sử dụng
+736,BSH.2TG.PHONGDAT,HỘ KINH DOANH PHONG ĐẠT,B2C,,Đang sử dụng
+737,BSH.2TG.TANTAI,HỘ KINH DOANH TẤN TÀI,B2C,,Đang sử dụng
+738,BSH.2TG.SONTRINH,Đại Lý SƠN TRINH,B2C,,Đang sử dụng
+739,BSH.2TG.PHUCUONG,Đại Lý Phú Cường ,B2C,,Đang sử dụng
+740,TN.2DL.PHUNONG,ĐẠI LÝ TÂN PHÚ NÔNG,B2C,,Đang sử dụng
+741,LD.2LD.DONGXANH,CỬA HÀNG VTNN NÔNG DƯỢC ĐỒNG XANH,B2C,,Đang sử dụng
+742,TN.2DN.PHUAN,Đại lý Phú An,B2C,,Đang sử dụng
+743,TN.2DL.HUNGHOA,Đại Lý Hưng Hòa,B2C,,Đang sử dụng
+744,TN.2DL.TUBAN,Đại lý Tư Bàn,B2C,,Đang sử dụng
+745,TN.2DN.TRUNGNONG,Đại lý Trung Nông,B2C,,Đang sử dụng
+746,BSH.2TG.VANQUANG,Đại Lý Võ Văn Quang,B2C,,Đang sử dụng
+747,BSH.2TG.HUUDUC,Đại Lý Hữu Đức,B2C,,Đang sử dụng
+748,NSH.2AG.VANHAU,HKD VĂN HẬU,B2C,,Đang sử dụng
+749,NSH.2CT.UTTRANG,Đại Lý Út Trắng,B2C,,Đang sử dụng
+750,BSH.2TG.HIEPTHANH,ĐẠI LÝ PHƯƠNG HIỆP THÀNH (Nguyễn Thị Sương),B2C,,Đang sử dụng
+751,TN.2DN.TUYENMOI,Đại lý Tuyến Mới,B2C,,Đang sử dụng
+752,MD.2BP.NGUYENVUI,Đại lý Nguyễn Vui 2,B2C,,Đang sử dụng
+753,TN.2DL.THANHTUNG,Cửa hàng VTNN THANH TÙNG,B2C,,Đang sử dụng
+754,DO.TM.KD,TRƯƠNG MINH ĐÔ,B2C,,Đang sử dụng
+755,MD.2TN.VANTU,ĐẠI LÝ BÙI VĂN TƯ,B2C,,Đang sử dụng
+756,MD.2BP.ANTAM,ĐẠI LÝ AN TÂM,B2C,,Đang sử dụng
+757,MD.2BT.MYHANG,ĐẠI LÝ MỸ HẰNG 2,B2C,,Đang sử dụng
+758,BSH.2TG.10PHUC,Cửa hàng VTNN 10 Phúc,B2C,,Đang sử dụng
+759,BSH.2TG.HIEUHANH,Đại lý Hiếu Hạnh,B2C,,Đang sử dụng
+760,BSH.2TG.CONGTINH,Đại lí Trần Công Tính,B2C,,Đang sử dụng
+761,BSH.2TG.HOANGVU,Đại Lý Lê Hoàng Vũ,B2C,,Đang sử dụng
+762,NSH.2HG.VITHANH,PHÒNG KT TP VỊ THANH,B2C,,Đang sử dụng
+763,TN.2DN.NONGVUI,ĐẠI LÝ NÔNG VUI,B2C,,Đang sử dụng
+764,BSH.2TG.BADET,Đại Lý Ba Đẹt ,B2C,,Đang sử dụng
+765,MD.2BP.PHONGNHAN,ĐẠI LÝ PHONG NHÂN,B2C,,Đang sử dụng
+766,NSH.2DT.NGANHA,Đại lý Ngân Hà,B2C,,Đang sử dụng
+767,LOI.NT.KD,Nguyễn Thành Lợi,B2C,,Ngừng sử dụng
+768,BSH.2TG.NGOCKIEN,Đại Lý Ngọc Kiên (Lê Ngọc Nhân),B2C,,Đang sử dụng
+769,MT.2KH.THUY,TRẦN THỊ NGUYÊN THỦY,B2C,,Đang sử dụng
+770,BANG.LC.KD,Lê Công Bằng (Xuất cho Mai Ân Nghĩa) xuát kho An Giang,B2C,,Đang sử dụng
+771,MD.2BT.HAMNHON2,HTX NN HÀM NHƠN 2,B2C,,Đang sử dụng
+772,BSH.2TG.NAMVUONG,Đại Lý Năm Vuông,B2C,,Đang sử dụng
+773,MT.2BD.BADIEN,ĐẠI LÝ BA DIÊN,B2C,,Đang sử dụng
+774,NSH.2HG.TANNONG,HỘ KINH DOANH TẤN NÔNG,B2C,,Đang sử dụng
+775,TN.2DL.NGOCHIEU,Đại lý VTNN NGỌC HIẾU,B2C,,Đang sử dụng
+776,MD.2BP.DUYPHIEN,Đại lý Duy Phiên,B2C,,Đang sử dụng
+777,MD.2BP.LETRUNG,VTNN Lê Trung,B2C,,Đang sử dụng
+778,MD.2DN.GIANHAT2,Cửa hàng VTNN Nông Gia Nhật 2,B2C,,Đang sử dụng
+779,TN.2DN.PHUONGTRANG,Đại lý Phương Trang,B2C,,Đang sử dụng
+780,MD.2TN.TRUNGKIENPHUC,CH TRUNG KIÊN PHÚC,B2C,,Đang sử dụng
+781,TN.2DN.SENNHUNG,ĐẠI LÝ SEN NHUNG,B2C,,Đang sử dụng
+782,MB.1BG.BACGIANG,CÔNG TY CP VẬT TƯ KỸ THUẬT NÔNG NGHIỆP BẮC GIANG (kéo tại cảng),MB_B2B,,Đang sử dụng
+783,MD.2TN.LENGA,ĐẠI LÝ LÊ NGÀ,B2C,,Đang sử dụng
+784,MD2.TN.BAGAN,ĐẠI LÝ BA GẠN,B2C,,Đang sử dụng
+785,MB.2SL.KIMNGAN,Đại Lý VTNN Kim Ngân,B2C,,Đang sử dụng
+786,MD.2BD.NONGSAN,CÔNG TY TNHH NÔNG SẢN JIU YING,B2C,,Đang sử dụng
+787,NSH.2DT.HOADONG,CỦA HÀNG HÒA ĐỒNG,B2C,,Đang sử dụng
+788,BSH.2TG.MUOIBAO,Hộ Kinh Doanh Mười Bao,B2C,,Đang sử dụng
+789,TN.2DL.VULINH,ĐẠI LÝ VŨ LINH,B2C,,Đang sử dụng
+790,NSH.2DT.QUYNHNHU,ĐẠI LÝ QUỲNH NHƯ,B2C,,Đang sử dụng
+791,BSH.2TG.CHINSAM,Đại Lý Chín Sẩm ,B2C,,Đang sử dụng
+792,BSH.2TG.TUONGVIET,Đại Lý Trường Việt,B2C,,Đang sử dụng
+793,TN.2DN.DUCMANH,Đại lý Đức Mạnh,B2C,,Đang sử dụng
+794,NSH.2AG.NICOTEX,Bùi Ngọc Hậu (CTY NICOTEX Cần Thơ),B2C,,Đang sử dụng
+795,BSH.2LA.TUYETHUONG,Đại Lý Tuyết Hương,B2C,,Đang sử dụng
+796,NSH.2DT.AITHOA,Đại Lý Ái Thoa,B2C,,Đang sử dụng
+797,NSH.2DT.VINHNGUYEN,Đại Lý Vinh Nguyễn,B2C,,Đang sử dụng
+798,NSH.2KG.HUUPHUOC,Đại Lý Hữu Phước (HKD Mai Phương),B2C,,Đang sử dụng
+799,TN.2DN.DUYVIET,Đại lý Duy Việt,B2C,,Đang sử dụng
+800,MD2.TN.BAONINH,ĐẠI LÝ BẢO NINH,B2C,,Đang sử dụng
+801,TN.2GL.TRUNGNHI,ĐẠI LÝ TRUNG NHI,B2C,,Đang sử dụng
+802,NSH.2CT.THANHDAT,Đại Lý Thành Đạt,B2C,,Đang sử dụng
+803,CUONG.VQ.KD,Vi Quốc Cường,B2C,,Đang sử dụng
+804,MT.2QN.PHANAN,CÔNG TY TNHH MỘT THÀNH VIÊN NÔNG NGHIỆP PHAN AN,B2C,,Đang sử dụng
+805,NSH.2DT.GIAPHAT,VTNN Gia Phát,B2C,,Đang sử dụng
+806,BSH.2TG.MYQUOI,Đại Lý Mỹ Quới,B2C,,Đang sử dụng
+807,NSH.2DT.PHUCLONG,Đại Lý Phúc Long,B2C,,Đang sử dụng
+808,NSH.2AG.HAIMAI,Đại lý Hải Mai,B2C,,Đang sử dụng
+809,MT.2KH.THANHHAI,Đại Lý THANH HẢI,B2C,,Đang sử dụng
+810,BSH.2TG.SAUDUC,Đại Lý Sáu Đực,B2C,,Đang sử dụng
+811,MD.2TN.MINHTRUNG,CỬA HÀNG MINH TRUNG,B2C,,Đang sử dụng
+812,TN.2HCM.HOAPHU,CÔNG TY TNHH MAI HOÀ PHÚ,B2C,,Đang sử dụng
+813,NSH.2DT.BAYTHIEU,VTNN Bảy Thiểu,B2C,,Đang sử dụng
+814,LD.2LD.THANGLOI,ĐẠI LÝ THẮNG LỢI,B2C,,Đang sử dụng
+815,BSH.2TG.TRIETMINH,Đại Lý Triết Minh,B2C,,Đang sử dụng
+816,NSH.2AG.BAOTAI,Đại Lý Lê Bảo Tại,B2C,,Đang sử dụng
+817,LD.2LD.TUNGHUONG,ĐẠI LÝ TÙNG HƯƠNG 1,B2C,,Đang sử dụng
+818,BSH.2LA.TUNHON2,Đại Lý VTNN Tư Nhơn 2,B2C,,Đang sử dụng
+819,TN.2GL.NONGDUOC,Đại Lý Nông Dược Tây Nguyên,B2C,,Đang sử dụng
+820,MD.2BP.KIEN,Sale Đỗ Trung Kiên,B2C,,Đang sử dụng
+821,TN.2DL.NAMVIET,CHI NHÁNH CTY CP NN VÀ XNK NAM VIỆT,B2C,,Đang sử dụng
+822,TN.2GL.DLXANH,Đại lý ĐÀ LẠT XANH,B2C,,Đang sử dụng
+823,NSH.2DT.HAOHIEP,Đại lý Hào Hiệp,B2C,,Đang sử dụng
+824,NSH.2CT.QUOCVAN,Đại Lý Quốc Vân ,B2C,,Đang sử dụng
+825,NSH.2ST.TUSUOL,Đại Lý Tư Suôl,B2C,,Đang sử dụng
+826,MD.2BD.YETGAT,CÔNG TY TNHH THỰC PHẨM YERGAT,B2C,,Đang sử dụng
+827,BSH.2LA.TUTRO,ĐẠI LÝ TƯ TRO,B2C,,Đang sử dụng
+828,BSH.2TG.CHAUDUC,ĐẠI LÝ CHÂU ĐỨC 2,B2C,,Đang sử dụng
+829,TN.2DL.THUYTRANG,Hộ Kinh Doanh BVTV Thùy Trang,B2C,,Đang sử dụng
+830,LD.2LD.ĐINHTRANG,Đại Lý Định Trang,B2C,,Đang sử dụng
+831,TN.2GL.NDANPHU,Đại lý NÔNG DƯỢC AN PHÚ,B2C,,Đang sử dụng
+832,TN.2DL.PHAPTS,VTNN PHÁP THỤY SĨ  (new),B2C,,Đang sử dụng
+833,MD2.TN.CAOPHAT,CHI NHÁNH 2 - CÔNG TY TNHH MTV SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ CAO PHÁT,B2C,,Đang sử dụng
+834,MD2.TN.TUANANH,ĐẠI LÝ TUẤN ANH,B2C,,Đang sử dụng
+835,MD2.TUANKIET,ĐẠI LÝ TUẤN KIỆT,B2C,,Đang sử dụng
+836,MT.2BD.HOASON,ĐẠI LÝ HOA SƠN,B2C,,Đang sử dụng
+837,TN.2DN.TUYETDOANH3,Đại lý Tuyết Doanh 3,B2C,,Đang sử dụng
+838,TN.2DN.THANHDAT,Đại lý THÀNH ĐẠT (DAKNONG),B2C,,Đang sử dụng
+839,TN.2DL.HUYDAT,ĐẠI LÝ HUY ĐẠT,B2C,,Đang sử dụng
+840,TN.2DN.THANHBANG,Đại Lý Thanh Bằng (Trần Thanh Bằng) (kéo tại cảng),B2C,,Đang sử dụng
+841,BSH.2TG.NGOCTHUAN,ĐẠI LÝ NGỌC THUẬN,B2C,,Đang sử dụng
+842,TN.2DN.MANLOAN,ĐẠI LÝ MẪN LOAN (kéo tại cảng) ,B2C,,Đang sử dụng
+843,LD.2LD.365QH,365QH,B2C,,Đang sử dụng
+844,MT.2BD.HONGTHUONG,Đại lý Hồng Thương (Phù Mỹ),B2C,,Đang sử dụng
+845,TN.2GL.HAITRIEU,Đại lý Hải Triều Gia Lai,B2C,,Đang sử dụng
+846,NSH.2CT.SAUDUNG,Đại Lý Sáu Dũng ,B2C,,Đang sử dụng
+847,NSH.2KG.DAITHANG2,ĐẠI THẮNG 2,B2C,,Đang sử dụng
+848,LD.2LD.THAOYEN,Thảo Yến,B2C,,Đang sử dụng
+849,MD.2BT.YENTHO,Đại Lý Yến Thọ,B2C,,Đang sử dụng
+850,LD.2LD.KHUYENNONG,VTNN KHUYẾN NÔNG,B2C,,Đang sử dụng
+851,BSH.2LA.NGUYENCUONG,VTNN NGUYÊN CƯỜNG,B2C,,Đang sử dụng
+852,MD.2BT.HOANGLAM,Đại lý Hoàng Lâm,B2C,,Đang sử dụng
+853,MD.2BT.MAILIEU,Đại lý Mai Liễu,B2C,,Đang sử dụng
+854,LD.2LD.THANHLUAN,Đại Lý Thành Luân,B2C,,Đang sử dụng
+855,LD.2LD.TUYET,Đại lý Tuyết,B2C,,Đang sử dụng
+856,MD.2TN.VANDIEN,ĐẠI LÝ LÊ VĂN ĐIỀN,B2C,,Đang sử dụng
+857,TN.2DN.KHANHQUY,Đại lý Khánh Quý,B2C,,Đang sử dụng
+858,LD.2LD.THUAN 1,Thuấn 1,B2C,,Đang sử dụng
+859,NSH.2AG.TRONGNHAN,HKD NNS TRỌNG NHÂN,B2C,,Đang sử dụng
+860,BSH.2TG.BECHIN,VTNN Bé Chín,B2C,,Đang sử dụng
+861,TN.2GL.NONGPHAT,Đại lý NÔNG PHÁT (GL),B2C,,Đang sử dụng
+862,NSH.2DT.PHATNONG,VTNN Tâm Phát Nông,B2C,,Đang sử dụng
+863,MD.2TN.NAMDUYEN,ĐẠI LÝ NAM DUYÊN,B2C,,Đang sử dụng
+864,MD.2TN.TUANANH,ĐẠI LÝ TUẤN ANH,B2C,,Đang sử dụng
+865,NSH.2KG.SAUHOI,Đại Lý Sáu Hội,B2C,,Đang sử dụng
+866,NSH.2KG.NGOCHA,VTNN Ngọc Hà,B2C,,Đang sử dụng
+867,MD.2TN.TRUNGDUNG,HỘ KINH DOANH TRUNG DŨNG,B2C,,Đang sử dụng
+868,NSH.2AG.MYDUNG,VTNN MỸ DUNG,B2C,,Đang sử dụng
+869,MT.2QN.MIENTRUNG,CÔNG TY TNHH GIỐNG CÂY TRỒNG MIỀN TRUNG,B2C,,Đang sử dụng
+870,TN.2DL.KIMDUNG,Đại lý Kim Dung,B2C,,Đang sử dụng
+871,NSH.2CT.UTMIT,Đại Lý Út Mít (Minh Trí),B2C,,Đang sử dụng
+872,MD.2TN.NAMTIEN,ĐẠI LÝ NAM TIỀN,B2C,,Đang sử dụng
+873,TN.2GL.PHATDAT,ĐẠI LÝ NÔNG PHÁT ĐẠT (CAO QUỐC ĐẠT),B2C,,Đang sử dụng
+874,MD.2TN.HOAPHU,CÔNG TY TNHH MAI HÒA PHÚ,B2C,,Đang sử dụng
+875,TN.2GL.DUCNAM,HKD Nguyễn Đức Nam,B2C,,Đang sử dụng
+876,MD.2TN.NGOCTRAM,Đại lý Ngọc Trâm,B2C,,Đang sử dụng
+877,BSH.2TG.NGOCHAN,Đại lý Ngọc Hân,B2C,,Đang sử dụng
+878,TN.2DN.HOADAKSIN,Đại lý Hợp Hoa Đắk Sin,B2C,,Đang sử dụng
+879,TN.2DN.DUCANH,ĐẠI LÝ ĐỨC ANH,B2C,,Đang sử dụng
+880,TN.2DL.NGHIEMNGA,Đại lý NGHIỆM NGA,B2C,,Đang sử dụng
+881,BSH.2VL.BAONGAN,Đại lý Bảo Ngân,B2C,,Đang sử dụng
+882,BSH.2VL.KHANHNGOC,Đại Lý Khánh Ngọc,B2C,,Đang sử dụng
+883,TN.2DL.THANHPHAT,Cửa Hàng VTNN Thông Thành Phát,B2C,,Đang sử dụng
+884,MD.2DN.NONGPHATMETA,Nông Phát meta,B2C,,Đang sử dụng
+885,TN.2GL.AGRICARE,Đại Lý AGRICARE GIA LAI,B2C,,Đang sử dụng
+886,TN.2GL.ANPHAT,ĐẠI LÝ VTNN NÔNG DƯỢC AN PHÁT,B2C,,Đang sử dụng
+887,BSH.2BT.8SE,Đại Lý 8 Se,B2C,,Đang sử dụng
+888,TN.2DL.NHUNGNGUYEN,Đại Lý Nhung Nguyên,B2C,,Đang sử dụng
+889,TN.2GL.GIAAN,CỬA HÀNG PB - THUỐC BVTV GIA AN,B2C,,Đang sử dụng
+890,TN.2GL.THANHPHUONG,Cửa hàng VTNN Thanh Phương,B2C,,Đang sử dụng
+891,NSH.2AG.VINHHOA,HTX Nông Nghiệp VĨNH HOÀ,B2C,,Đang sử dụng
+892,MD2.TN.BICHNGA,Đại lý BÍCH NGA,B2C,,Đang sử dụng
+893,NSH.2KG.GIABAO,HKD HOÀNG GIA BẢO,B2C,,Đang sử dụng
+894,TN.2DN.DUCDUNG,Đại lý Đức Dũng,B2C,,Đang sử dụng
+895,TN.2GL.PHAMDUY,Đại Lý PHẠM DUY,B2C,,Đang sử dụng
+896,NSH.2AG.PHUCHIEP,DL PHÚC HIỆP,B2C,,Đang sử dụng
+897,NSH.2AG.NHATTHANH,NGUYỄN HOÀNG NHẬT THANH,B2C,,Đang sử dụng
+898,MD.2DONGNAI.TIENPHAT3,Cửa hàng VTNN Tiến Phát 3,B2C,,Đang sử dụng
+899,NSH.2DT.THANHLIEM,NGUYỄN THANH LIÊM,B2C,,Đang sử dụng
+900,BSH.2VL.HONGNHI,Đại lý Hồng Nhi,B2C,,Đang sử dụng
+901,BSH.2VL.DUYTHANH,Đại lý Duy Thanh,B2C,,Đang sử dụng
+902,TN.2GL.TANLAC,HKD VTNN Tân Lạc 06,B2C,,Đang sử dụng
+903,BSH.2TG.THANHNHU,HKD:Thanh Như,B2C,,Đang sử dụng
+904,NSH.2DT.QUOCTE,ĐẠI LÝ QUỐC TẾ,B2C,,Đang sử dụng
+905,MD.2TN.CAOPHAT,ĐẠI LÝ CAO PHÁT,B2C,,Đang sử dụng
+906,TN.2GL.NGUYENHUY,Đại Lý Trình Nguyên Huy,B2C,,Đang sử dụng
+907,BSH.2VL.LYDUC,Hộ kinh doanh LÝ ĐỨC,B2C,,Đang sử dụng
+908,MD.2DN.TIENPHAT3,Cửa hàng VTNN Tiến Phát 3,B2C,,Đang sử dụng
+909,NSH.2AG.HANHPHUC,Cửa Hàng VTNN HẠNH PHÚC (AG),B2C,,Đang sử dụng
+910,NSH.2AG.TRUONGGIANG,VTNN TRƯỜNG GIANG,B2C,,Đang sử dụng
+911,TN.2DN.ANHHANG,HKD ÁNH HẰNG,B2C,,Đang sử dụng
+912,TN.2GL.HAIVUONG,Đại Lý Hải Vương,B2C,,Đang sử dụng
+913,MD.2TN.BAONINH,ĐẠI LÝ BẢO NINH,B2C,,Đang sử dụng
+914,BSH.2VL.KHANHBANG,Cửa hàng VTNN Khánh Băng,B2C,,Đang sử dụng
+915,TN.2GL.NGOCTAT,Đại Lý Nguyễn Ngọc Tất,B2C,,Đang sử dụng
+916,LD.2LD.NONGNGHIEPVIET,Hộ Kinh Doanh Cửa Hàng Nông Nghiệp Việt,B2C,,Đang sử dụng
+917,NSH.2DT.HIEUNHAN,Cửa Hàng VTNN Hà Hiếu Nhân (Lê Thị Minh Trang),B2C,,Đang sử dụng
+918,NSH.2DT.THANHTRA,ĐẠI LÝ THANH TRÀ,B2C,,Đang sử dụng
+919,BSH.2LA.UTLE,Út Lễ,B2C,,Đang sử dụng
+920,BSH.2VL.2TUYET,Cửa hàng VTNN 2 Tuyết,B2C,,Đang sử dụng
+921,TN.2GL.NNHIENDAI,Nông Nghiệp Hiện Đại,B2C,,Đang sử dụng
+922,NSH.2AG.PHUCUONG,VTNN PHÚ CƯỜNG,B2C,,Đang sử dụng
+923,NSH.2DT.HUUANH,HKD CỬA HÀNG HỮU ÁNH,B2C,,Đang sử dụng
+924,LD.2LD.HIEPTHANH6,Đại Lý Hiệp Thành 6,B2C,,Đang sử dụng
+925,MT.2KH.DONKEYMARINE,CÔNG TY CỔ PHẦN DONKEY MARINE AGRICULTURE,B2C,,Đang sử dụng
+926,MD.2BP.VANLAM,Đại lý Văn Lâm,B2C,,Đang sử dụng
+927,MT.2NT.THANHNAM,Đại lý Thành Nam,B2C,,Đang sử dụng
+928,BSH.2TG.SAUHANH,VTNN Sáu Hạnh(BSH),B2C,,Đang sử dụng
+929,TN.2DL.BAONONG2,HỘ KINH DOANH BẢO NÔNG 2,B2C,,Đang sử dụng
+930,BSH.2VL.TUANKHANH,Cửa hàng VTNN Tuấn Khanh,B2C,,Đang sử dụng
+931,BSH.2VL.HUYPHAT,HỘ KINH DOANH CỬA HÀNG VẬT TƯ NÔNG NGHIỆP HUY PHÁT,B2C,,Đang sử dụng
+932,BSH.2VL.THUHUONG,Cửa hàng VTNN Thu Hương,B2C,,Đang sử dụng
+933,BSH.2VL.THANHCONG,Cửa hàng VTNN Thành Công,B2C,,Đang sử dụng
+934,MD.2DN.MAILY,MAI LY,B2C,,Đang sử dụng
+935,LD.2LD.TAMNGUYEN,Đại Lý Tâm Nguyên,B2C,,Đang sử dụng
+936,LD.2LD.LINHNHI,Đại Lý Linh Nhi,B2C,,Đang sử dụng
+937,TN.2GL.DIEUTRANG,Đại Lý DIỆU TRANG,B2C,,Đang sử dụng
+938,TN.2GL.LAMTHIN,Đại Lý Lâm Thìn,B2C,,Đang sử dụng
+939,BSH.2TG.MINHTUYEN,VTNN Minh Tuyền,B2C,,Đang sử dụng
+940,NSH.2KG.NGHIANHAN,VTNN NGHĨA NHÂN(Mai Ân Nghĩa),B2C,,Đang sử dụng
+941,MD.2DN.TAINHI,ĐẠI LÝ TÀI NHI,B2C,,Đang sử dụng
+942,TN.2GL.BNONGXANH,ĐẠI LÝ BÁCH NÔNG XANH,B2C,,Đang sử dụng
+943,MD.2TN.VINHPHUONG,HỘ KINH DOANH VINH PHƯƠNG,B2C,,Đang sử dụng
+944,BSH.2VL.NGUYENBINH,HỘ KINH DOANH NGUYỄN BÌNH,B2C,,Đang sử dụng
+945,TN.2DL.HOANGMINH,Cửa Hàng VTNN HOÀNG MINH ,B2C,,Đang sử dụng
+946,BSH.2LA.BATHUY,Đại lý BA THỦY,B2C,,Đang sử dụng
+947,NSH.2DT.CONGDANH,Đại Lý CÔNG DANH 1 (Huỳnh Công Duy),B2C,,Đang sử dụng
+948,TN.2GL.THAILOI,Đại Lý Thái Lợi,B2C,,Đang sử dụng
+949,TN.2DL.NONGVIET,Đại Lý NÔNG VIỆT (Đào Điệp 5),B2C,,Đang sử dụng
+950,TN.2GL.MIENTAY,Đại Lý Miền Tây,B2C,,Đang sử dụng
+951,MT.2NT.MUOIHIEU,ĐẠI LÝ MƯỜI HIẾU,B2C,,Đang sử dụng
+952,MD.2DN.KHOI,HỘ KINH DOANH KHÔI,B2C,,Đang sử dụng
+953,NSH.2AG.HOANGNHU,Đại Lý Hoàng Nhu,B2C,,Đang sử dụng
+954,TN.2GL.HOANGNGAN,Hoàng Ngân,B2C,,Đang sử dụng
+955,NSH.2DT.CAMLOAN,Đại Lý Cẩm Loan,B2C,,Đang sử dụng
+956,LD.2LD.ANNONG,Đại lý An Nông,B2C,,Đang sử dụng
+957,TN.2DN.TIENTUYEN,Đại Lý TIÊN TUYỀN (BÙI VŨ TUẤN),B2C,,Đang sử dụng
+958,TN.2DL.GIANGTHANG,Đại Lý GIANG THẮNG ,B2C,,Đang sử dụng
+959,BSH.2BT.HUUTHANG,Đại Lý Hữu Thắng,B2C,,Đang sử dụng
+960,BSH.2VL.HUYDANH,CỬA HÀNG VTNN HUY DANH,B2C,,Đang sử dụng
+961,TN.2GL.NONGDUOCGL,CTY TNHH BÁCH HOÁ NÔNG DƯỢC - BÀU CẠN GIA LAI,B2C,,Đang sử dụng
+962,LD.2LD.VULONG,ĐẠI LÝ VŨ LONG,B2C,,Đang sử dụng
+963,NSH.2DT.PHATDAT,ĐẠI LÝ ĐẠI PHÁT,B2C,,Đang sử dụng
+964,MD.2BP.THOSON,ĐẠI LÝ THỌ SƠN,B2C,,Đang sử dụng
+965,MD.2DN.TANLOC,Đại lý Tấn Lộc 5 rưỡi,B2C,,Đang sử dụng
+966,MD.2BP.GIANGHIA,HKD GIA NGHĨA,B2C,,Đang sử dụng
+967,TN.2GL.NGOCTHANG,Đại Lý Ngọc Thăng,B2C,,Đang sử dụng
+968,MD.2BD.THUBA,THU BA,B2C,,Đang sử dụng
+969,TN.2GL.LEKHAI,ĐẠI LÝ LÊ KHẢI,B2C,,Đang sử dụng
+970,MD.2BP.PHONGPHU,ĐẠI LÝ PHONG PHÚ,B2C,,Đang sử dụng
+971,NSH.2DT.HATHAO,ĐẠI LÝ HÀ THẢO,B2C,,Đang sử dụng
+972,NSH.2DT.MONGHUNG,CH VTNN Mộng Hùng,B2C,,Đang sử dụng
+973,MD.2BT.DAKIM,Đại Lý Nông dược Đa Kim,B2C,,Đang sử dụng
+974,NSH.2AG.NGOCHAU,Bùi Ngọc Hậu (CTY NICOTEX Cần Thơ),B2C,,Đang sử dụng
+975,MD.2BP.CHUNGCHIEU,ĐẠI LÝ CHUNG TRIỀU,B2C,,Đang sử dụng
+976,SON.LV.KD,LÊ VĂN SƠN,B2C,,Đang sử dụng
+977,NSH.2DT.QUOCVINH,Đại Lý Quốc Vinh,B2C,,Đang sử dụng
+978,TN.2GL.HUNGNGUYEN,Đại Lý Hưng Nguyễn,B2C,,Đang sử dụng
+979,TN.2DN.KIMHANG,ĐẠI LÝ KIM HẰNG,B2C,,Đang sử dụng
+980,TN.2DL.MUAVANGPLUS,ĐẠI LÝ MÙA VÀNG PLUS,B2C,,Đang sử dụng
+981,NSH.2KG.NAMTAN,Năm Tấn,B2C,,Đang sử dụng
+982,TN.2DL.HUNGANH,Đại Lý Hùng Anh ,B2C,,Đang sử dụng
+983,TN.2GL.HUONG3,Đại Lý Hường 3,B2C,,Đang sử dụng
+984,NSH.2CT.UTTHANH,Đại Lý Út Thanh,B2C,,Đang sử dụng
+985,BSH.2LA.LENGUYEN1,VTNN Lê Nguyễn 1,B2C,,Đang sử dụng
+986,BSH.2TG.BINHKHANH,VTNN Bình Khánh,B2C,,Đang sử dụng
+987,TN.2GL.TOANMY,Đại lý TOÀN MỸ GIA LAI,B2C,,Đang sử dụng
+988,MD.2BP.HANHHIEN,Đại lý Hạnh Hiền,B2C,,Đang sử dụng
+989,LD.2LD.ANBINH,Cửa hàng VTNN AN BÌNH,B2C,,Đang sử dụng
+990,LD.2LD.XUANTRUONG,Xuân Trường Lộc An,B2C,,Đang sử dụng
+991,TN.2DN.VTNNC1,Cửa Hàng VTNN C1,B2C,,Đang sử dụng
+992,MD.2DN.THANHLAM,HKD THANH LÂM,B2C,,Đang sử dụng
+993,MD.2DN.NONGNGHIEPSACH,ĐL Nông nghiệp Sạch,B2C,,Đang sử dụng
+994,LD.2LD.NGOCQUANG,Ngọc Quang,B2C,,Đang sử dụng
+995,MD.2TN.GIAHAN,CÔNG TY TNHH NÔNG NGHIỆP VÀ CÔNG NGHỆ GIA HÂN,B2C,,Đang sử dụng
+996,BSH.2LA.NONGTRANGYENCANH,CÔNG TY TNHH NÔNG TRANG YÊN CẢNH,B2C,,Đang sử dụng
+997,LD.2LD.HAITRINH,Đại Lý Hải Trinh,B2C,,Đang sử dụng
+998,LD.2LD.SONNAM,Cửa Hàng VTNN Sơn Nam,B2C,,Đang sử dụng
+999,LD.2LD.HOANGGIANG,Đại Lý Hoàng Giang,B2C,,Ngừng sử dụng
+1000,TN.2DN.TAMPHAT,HỘ KINH DOANH NÔNG TÂM PHÁT,B2C,,Đang sử dụng
+1001,TN.2GL.MINHPHAT,Đại Lý Minh Phát,B2C,,Đang sử dụng
+1002,TN.2GL.THUYTRANG2,Đại Lý Thuỳ Trang 2,B2C,,Đang sử dụng
+1003,MD.2BP.HOPPHAT,HỘ KINH DOANH CỬA HÀNG PHÂN BÓN - BVTV HỢP PHÁT,B2C,,Đang sử dụng
+1004,TN.2DN.GIAPHAT,HỘ KINH DOANH VTNN NÔNG GIA PHÁT,B2C,,Ngừng sử dụng
+1005,MD.2BP.VANVUI,HKD NGUYỄN VĂN VUI,B2C,,Đang sử dụng
+1006,TN.2GL.THANHHUONG,Đại Lý Thành Hường,B2C,,Đang sử dụng
+1007,TN.2DN.ANKHANG,ĐẠI LÝ NGUYỄN AN KHANG,B2C,,Đang sử dụng
+1008,TN.2DL.TANHOA,HỘ KINH DOANH NGUYỄN TẤN HOA,B2C,,Đang sử dụng
+1009,TN.2DN.MINHTUAN,HKD PHẠM MINH TUẤN,B2C,,Đang sử dụng
+1010,TN.2DL.THANGLOI,ĐẠI LÝ THẮNG LỢI,B2C,,Đang sử dụng
+1011,TN.2LD.VANHUONG,Đại lý Văn Hương,B2C,,Đang sử dụng
+1012,TN.2GL.XUANNGUYEN,HKD Ngô Xuân Nguyên,B2C,,Đang sử dụng
+1013,TN.2LD.QUOCDAT,Đại lý Quốc Đạt,B2C,,Đang sử dụng
+1014,LD.2LD.VIETNA3,Đại lý Viết Na 3,B2C,,Đang sử dụng
+1015,TN.2DL.QUYENTHUY,Đại Lý QUYẾN THUỶ,B2C,,Ngừng sử dụng
+1016,NSH.2KG.HOANGQUAN,VTNN HOÀNG QUÂN,B2C,,Đang sử dụng
+1017,NSH.2KG.UTMINH,CỬA HÀNG VẬT TƯ NÔNG NGHIỆP ÚT MINH,B2C,,Đang sử dụng
+1018,BSH.2BT.NGUYENDUY,HKD NGUYỄN DUY,B2C,,Đang sử dụng
+1019,BSH.2TG.HUYNHTRI,HKD HUỲNH TRÍ,B2C,,Đang sử dụng
+1020,MT.2NT.TRONGMY,Đly TRỌNG MY,B2C,,Đang sử dụng
+1021,MT.2BD.THUTHU,ĐẠI LÝ THƯ THỦ,B2C,,Đang sử dụng
+1022,TN.2DL.THIENNONG,Đại Lý AN THIÊN NÔNG 689,B2C,,Đang sử dụng
+1023,TN.2DL.THACHTHU,Đại Lý THẠCH THƯ,B2C,,Đang sử dụng
+1024,MT.2KH.HUUNHAN,HỘ KINH DOANH HỮU NHÂN,B2C,,Đang sử dụng
+1025,LD.2LD.DAITUOI,CÔNG TY TNHH ĐÀI TƯƠI,B2C,,Đang sử dụng
+1026,TN.2DN.MINHHAO,HỘ KINH DOANH MINH HẢO,B2C,,Đang sử dụng
+1027,TN.2DL.CONGDANH,VTNN Công Danh ,B2C,,Đang sử dụng
+1028,MD.2DN.ANPHU,ĐẠI LÝ ÂN PHÚ,B2C,,Đang sử dụng
+1029,TN.2DL.DUOCMUA,Đại lý Được Mùa (NGUYỄN LONG PHI),B2C,,Đang sử dụng
+1030,MD.2BP.QUANGDUNG,HỘ KINH DOANH QUẢNG DUNG,B2C,,Đang sử dụng
+1031,LD.2LD.DUNGNGAN,CÔNG TY TNHH DŨNG NGÂN - LIÊN ĐẦM,B2C,,Đang sử dụng
+1032,MD.2BP.DANONG,HỘ KINH DOANH VẬT TƯ NÔNG NGHIỆP ĐA NÔNG,B2C,,Đang sử dụng
+1033,MD.2BP.BONDUNG,HKD VTNN BỐN ĐÚNG,B2C,,Đang sử dụng
+1034,MD.2BP.VTNN1993,HKD HỆ THỐNG VTNN 1993,B2C,,Đang sử dụng
+1035,TN.2DN.XUANTHU,Đại lý Xuân Thu,B2C,,Đang sử dụng
+1036,NSH.2CT.MINHTRI,HỘ KINH DOANH CỬA HÀNG VẬT TƯ NÔNG NGHIỆP MINH TRÍ,B2C,,Đang sử dụng
+1037,LD.2LD.CUONGTUYET,Đại lý Tuyết,B2C,,Đang sử dụng
+1038,TN.2GL.LOC,Đại Lý Lộc,B2C,,Đang sử dụng
+1039,MD.2BD.ANHDUNG,Anh Dũng Bình Dương,B2C,,Đang sử dụng
+1040,NSH.2DT.BINH,Nguyễn Văn Bình,B2C,,Đang sử dụng
+1041,TN.2DN.MINHKHANG,HỘ KINH DOANH VTNN MINH KHANG AGRI,B2C,,Đang sử dụng
+1042,TN.2DN.ANHQUANG,HỘ KINH DOANH VŨ ANH QUANG,B2C,,Đang sử dụng
+1043,LD.2LD.VANHUONG,Đại lý Văn Hương,B2C,,Đang sử dụng
+1044,LD.2LD.QUANGHUY2,ĐẠI LÝ QUANG HUY 2,B2C,,Đang sử dụng
+1045,LD.2LD.QUOC DAT,Đại lý Quốc Đạt,B2C,,Đang sử dụng
+1046,NSH.2DT.TUANPHAT5,ĐẠI LÝ TUẤN PHÁT 5,B2C,,Đang sử dụng
+1047,TN.2GL.BICHTHUY,Đại Lý Bích Thuỷ,B2C,,Đang sử dụng
+1048,TN.2GL.NHATMINH,Đại Lý Nhật Minh,B2C,,Đang sử dụng
+1049,BSH.2LA.BAYHIEN,VTNN Bảy Hiền,B2C,,Đang sử dụng
+1050,BSH.2LA.NGUYENVANTHONG,VTNN Nguyễn Văn Thống,B2C,,Đang sử dụng
+1051,TN.2DN.VANTAM,ĐẠI LÝ NGUYỄN VĂN TÂM,B2C,,Đang sử dụng
+1052,MT.2KH.BACUMBAC,CỬA HÀNG VTNN BA CỤM BẮC,B2C,,Đang sử dụng
+1053,LD.2LD.THAOY,ĐẠI LÝ THAO Ý,B2C,,Đang sử dụng
+1054,MD.2DN.DUCTHANH,ĐL ĐỨC THÀNH,B2C,,Đang sử dụng
+1055,BSH.2TG.TAMTHONG,ĐẠI LÝ TÂM THÔNG,B2C,,Đang sử dụng
+1056,BSH.2TG.TINHHUY,ĐẠI LÝ TÍNH HUY,B2C,,Đang sử dụng
+1057,BSH.2TG.TAMNGAN,Đại lý Tám Ngàn 2,B2C,,Đang sử dụng
+1058,MD.2BP.TRANLONG,ĐẠI LÝ TRẦN LONG,B2C,,Đang sử dụng
+1059,MD.2DN.THUDUC,HKD NHÀ PHÂN PHỐI VTNN THƯ ĐỨC,B2C,,Đang sử dụng
+1060,BSH.2LA.VTNNPHULAM,HỘ KINH DOANH CỬA HÀNG VẬT TƯ NÔNG NGHIỆP PHÚ LÂM,B2C,,Đang sử dụng
+1061,MD.2DN.TNONGPHAT,CÔNG TY TNHH VẬT TƯ NÔNG NGHIỆP TÂN NÔNG PHÁT,B2C,,Đang sử dụng
+1062,TN.2DL.HUYHUNG,Đại Lý VTNN HUY HÙNG,B2C,,Đang sử dụng
+1063,MT.2KH.PHUONGTHI,HỘ KINH DOANH PHƯỢNG THI,B2C,,Đang sử dụng
+1064,TN.2DL.NGOCTRI,VTNN NGỌC TRÍ,B2C,,Đang sử dụng
+1065,TN.2GL.TIENPHAT,Đại Lý Tiến Phát,B2C,,Đang sử dụng
+1066,MD.2BP.HONGPHAT,HỘ KINH DOANH HỒNG PHÁT,B2C,,Đang sử dụng
+1067,TN.2DL.NHITUNG,Đại Lý NHỊ TÙNG,B2C,,Đang sử dụng
+1068,TN.2DN.NONGNGHIEPVIET,ĐẠI LÝ NÔNG NGHIỆP VIỆT,B2C,,Đang sử dụng
+1069,TN.2GL.PHUCNONGXANH,Đại Lý Phúc Nông Xanh,B2C,,Ngừng sử dụng
+1070,TN.2DL.CUONGANH, Cửa Hàng VTNN CƯỜNG ÁNH,B2C,,Đang sử dụng
+1071,BSH.2TG.DIEP,ĐẠI LÝ ĐIỆP,B2C,,Đang sử dụng
+1072,BSH.2TG.LATAN,ĐẠI LÝ LA TẤN,B2C,,Đang sử dụng
+1073,BSH.2VL.THUANPHAT,ĐẠI LÝ THUẬN PHÁT,B2C,,Đang sử dụng
+1074,NSH.2DT.HOANGNUP,VTNN Hoàng Núp,B2C,,Đang sử dụng
+1075,TN.2DL.DUCTHUY,Đại Lý ĐỨC THUÝ,B2C,,Đang sử dụng
+1076,MD.2BP.THANHCHIEN,Đại lý Thanh Chiến (Đặng Bá Thanh),B2C,,Đang sử dụng
+1077,MD.2BP.MYTAN,HỘ KINH DOANH MỸ TÂN (PHẠM PHÚ VINH),B2C,,Đang sử dụng
+1078,TN.2DN.HIEPPHAT,Đại lý Hiệp Phát,B2C,,Đang sử dụng
+1079,BSH.2LA.TANTAI,Cửa Hàng Vật Tư Nông Nghiệp Tấn Tài,B2C,,Đang sử dụng
+1080,TN.2GL.NNMATTROI,ĐẠI LÝ NÔNG NGHIỆP MẶT TRỜI,B2C,,Đang sử dụng
+1081,TN.2DL.THANHTHUY,Cửa hàng PB BVTV Thanh Thuỷ ,B2C,,Đang sử dụng
+1082,BSH.2DT.NGOCHAN,CỬA HÀNG VTNN NGỌC HÂN,B2C,,Đang sử dụng
+1083,MD.2TN.MINHTRUNG2,HỘ KINH DOANH ĐẠI LÝ VẬT TƯ NÔNG NGHIỆP MINH TRUNG 2,B2C,,Đang sử dụng
+1084,TN.2GL.DATDO,ĐỊA LÝ ĐẤT ĐỎ (HKD NGUYỆT NGA),B2C,,Đang sử dụng
+1085,TN.2DN.MINHDANG,Đại lý Minh Đăng,B2C,,Đang sử dụng
+1086,TN.2GL.ANTINH,Đại Lý Ân Tình (Nguyễn Ngọc Vấn),B2C,,Đang sử dụng
+1087,MD.2TN.CHINTRUNG2,HKD CHÍN TRUNG 2,B2C,,Đang sử dụng
+1088,BSH.2TG.CHINTAN,Đại lý Chín Tân (Trần Thế Tân),B2C,,Đang sử dụng
+1089,MD.2BP.DUYKIEN,HỘ KINH DOANH TRƯƠNG DUY KIÊN,B2C,,Đang sử dụng
+1090,MD.2BP.HOPNONG,HỘ KINH DOANH VẬT TƯ NÔNG NGHIỆP HỢP NÔNG,B2C,,Đang sử dụng
+1091,MD.2DN.VIETKHANH,ĐL VIỆT KHÁNH,B2C,,Đang sử dụng
+1092,BSH.2LA.NAMTUNG,HỘ KINH DOANH NĂM TÙNG,B2C,,Đang sử dụng
+1093,LD.2DL.QUOCTUAN,Đại lý Quốc Tuấn,B2C,,Đang sử dụng
+1094,TN.2DL.CAONGUYEN,ĐẠI LÝ CAO NGUYÊN (Trần Thanh Hợp),B2C,,Đang sử dụng
+1095,TN.2DL.NGUYENHUONG,CỬA HÀNG VTNN NGUYÊN HƯƠNG,B2C,,Đang sử dụng
+1096,MD.2DN.HAQUYET3,HÀ QUYẾT (HÀNG GÒN),B2C,,Đang sử dụng
+1097,MD.2DN.HAQUYET2,ĐẠI LÝ HÀ QUYẾT 2 (ĐÀM SỸ ĐÔNG),B2C,,Đang sử dụng
+1098,TN.2DL.HURICO,CÔNG TY TNHH SX TM XNK HU.RICO,B2C,,Đang sử dụng
+1099,BSH.2VL.UTY,HỘ KINH DOANH ÚT Ý,B2C,,Đang sử dụng
+1100,BSH.2TG.PHILONG,HKD NGUYỄN PHI LONG,B2C,,Đang sử dụng
+1101,NSH.2AG.THANHHUY,ĐẠI LÝ THANH HUY,B2C,,Đang sử dụng
+1102,NSH.2CT.TAYDO,CTY TNHH LƯƠNG THỰC TÂY ĐÔ,B2C,,Đang sử dụng
+1103,TN.2DL.MINHVU,CÔNG TY TNHH MTV THƯƠNG MẠI MINH VŨ,B2C,,Đang sử dụng
+1104,LD.2LD.PHINOM,HKD PHAN THỊ TÂM (NÔNG DƯỢC PHI NÔM),B2C,,Đang sử dụng
+1105,MD.2TN.NONGLAM,HKD BÁ HỘ NÔNG LÂM,B2C,,Đang sử dụng
+1106,NSH.2ST.HOANGOANH,Đại lý Hoàng Oanh,B2C,,Đang sử dụng
+1107,NSH.2CT.QUOCTHINH,ĐẠI LÝ QUỐC THỊNH,B2C,,Đang sử dụng
+1108,NSH.2ST.THANHLONG,ĐẠI LÝ THANH LONG ( SÓC TRĂNG),B2C,,Đang sử dụng
+1109,MD.2VT.MAIKHANH,Đại lý Mai Khánh,B2C,,Đang sử dụng
+1110,TN.2DL.NHANPHAT,HKD CỬA HÀNG VNTN NHÂN PHÁT,B2C,,Đang sử dụng
+1111,MD.2BP.BAHUY,HỘ KINH DOANH TỐNG BÁ HUY,B2C,,Đang sử dụng
+1112,MD.2BP.MAMXANH,HỘ KINH DOANH VTNN MẦM XANH,B2C,,Đang sử dụng
+1113,MD.2BP.VINHPHAT,HỘ KINH DOANH VTNN VĨNH PHÁT,B2C,,Đang sử dụng
+1114,TN.2GL.HUYNONG,Đại lý Huy Nông,B2C,,Đang sử dụng
+1115,MD.2TN.KHOIHUNG,CÔNG TY TNHH MTV KHÔI HƯNG TN,B2C,,Đang sử dụng
+1116,TN.2DN.THANHXUAN,VTNN Thức Thanh Xuân (Cao Hữu Thức),B2C,,Đang sử dụng
+1117,MD.2DN.HUY,Đoàn Minh Huy,B2C,,Đang sử dụng
+1118,LD.2LD.HOAHIEN,Đại lý Hòa Hiên,B2C,,Đang sử dụng
+1119,NSH.2AG.TUANANH,Đại lý Tuấn Anh,B2C,,Đang sử dụng
+1120,NSH.2AG.TAMNGUYEN,Đại lý Tâm Nguyên,B2C,,Đang sử dụng
+1121,MD.2TN.VANHANH,CÔNG TY TNHH VẠN HẠNH,B2C,,Đang sử dụng
+1122,TN.2GL.MINHTRI,Đại lý Minh Trí,B2C,,Đang sử dụng
+1123,TN.2DN.VANDUNG,HỘ KINH DOANH VI VĂN DŨNG (NÔNG PHÁT AGRI),B2C,,Đang sử dụng
+1124,TN.2DL.HOANGHUY,HKD ĐẠI LÝ VTNN HOÀNG HUY,B2C,,Đang sử dụng
+1125,MD.2DN.DUYKHANH,HKD THUỐC BVTV VÀ VTNN DUY KHÁNH,B2C,,Đang sử dụng
+1126,NSH.2AG.THANHSANG,Đại lý Thanh Sang,B2C,,Đang sử dụng
+1127,NSH.2AG.KHOANGUYEN,Đại lý Khoa Nguyên,B2C,,Đang sử dụng
+1128,NSH.2ST.VOBANG,HKD VÕ VĂN BẰNG,B2C,,Đang sử dụng
+1129,MT.2BD.KHANHHOA,VTNN KHÁNH HÒA,B2C,,Đang sử dụng
+1130,MT.2KH.APHONG,Anh Phong (Khánh Hòa),B2C,,Đang sử dụng
+1131,MT.2BD.THANHNONG,CÔNG TY TNHH VẬT TƯ NÔNG NGHIỆP THÀNH NÔNG,B2C,,Đang sử dụng
+1132,LD.2LD.TANTHANH,HTX Tân Thanh,B2C,,Đang sử dụng
+1133,NSH.2DT.THINHPHAT,VTNN HƯNG THỊNH PHÁT,B2C,,Đang sử dụng
+1134,TN.2LD.MINHKHANG,Đại lý Minh Khang,B2C,,Đang sử dụng
+1135,TN.2LD.BAHUNG,HỘ KINH DOANH ANH BA HƯNG (ĐẮK NÔNG),B2C,,Đang sử dụng
+1136,TN.2DL.HKDMUAVANG,HỘ KINH DOANH MÙA VÀNG,B2C,,Đang sử dụng
+1137,NSH.2ĐT.BAOTOAN,Hộ kinh doanh Bảo Toàn,B2C,,Đang sử dụng
+1138,TN.2DL.XUANNHO,HỘ KINH DOANH ĐẠI LÝ XUÂN NHO,B2C,,Đang sử dụng
+1139,MD.2BT.KATECO,CÔNG TY CỔ PHẦN KATECO,B2C,,Đang sử dụng
+1140,MD.2DN.KIMNGOAN,CÔNG TY TNHH KIM NGOAN,B2C,,Đang sử dụng
+1141,TN.2DL.ANANFARM,CÔNG TY TNHH TM VÀ DV AN AN FARM,B2C,,Đang sử dụng
+1142,MD.2DN.MINHTIEN,ĐẠI LÝ MINH TIẾN,B2C,,Đang sử dụng
+1143,LD.2LD.TAMNONG,HỘ KINH DOANH TÂM NÔNG,B2C,,Đang sử dụng
+1144,LD.2LD.ANHTAN,HỘ KINH DOANH NGUYỄN ANH TÂN,B2C,,Đang sử dụng
+1145,LD.2LD.TAMHUNGPHAT,HỘ KINH DOANH TÂM HƯNG PHÁT,B2C,,Đang sử dụng
+1146,BSH.1BTRE.NHATQUANG,CTy TNHH TM SX Nhật Quang,B2B,,Đang sử dụng
+1147,BSH.1LA.ME KONG,Lê Tấn Tài,B2B,,Đang sử dụng
+1148,BSH.1LA.TANTAI,Cửa Hàng VTNN Lê Tấn Tài,B2B,,Đang sử dụng
+1149,BSH.1TG.HAICOI,Cửa Hàng VTNN Hai Cội,B2B,,Đang sử dụng
+1150,BSH.1TG.KIMLONG,Đại lý Kim Long,B2B,,Đang sử dụng
+1151,BSH.1TG.LAMHUU,Đại Lý Lâm Hữu,B2B,,Đang sử dụng
+1152,BSH.1TG.THIEN,Cửa hàng VTNN Thiện,B2B,,Đang sử dụng
+1153,BSH.1TG.THIENDI,Công TY TNHH TM -DV Thiên Di,B2B,,Đang sử dụng
+1154,BSH.1TG.THIENDI new,Công TY TNHH TM -DV Thiên Di,B2B,,Đang sử dụng
+1155,BSH.1TG.THUYAI,Đại lý Thúy Ái,B2B,,Đang sử dụng
+1156,BSH.1TG.VANTHACH,Đại Lý Lê Văn Thạch,B2B,,Đang sử dụng
+1157,BSH.1VL.HIEPTHANH,Đại lý Hiệp Thành,B2B,,Đang sử dụng
+1158,BSH.1VL.MINHTHANH,Đại lý Tân Minh Thành,B2B,,Đang sử dụng
+1159,CTY.1AG.THEMAN,Công Ty TNHH TMDV XNK PB Thế Mẫn,B2B,,Đang sử dụng
+1160,CTY.1BSH.NONGNGHIEPVANG,CÔNG TY TNHH QUỐC TẾ NÔNG NGHIỆP VÀNG,B2B,,Đang sử dụng
+1161,CTY.1CT.KHANHPHAT,Công ty TNHH Khánh Phát,B2B,,Đang sử dụng
+1162,CTY.1DL.QUOCTE,Công ty Cổ phần Sâm Quốc Tế,B2B,,Đang sử dụng
+1163,CTY.1DN.HOANGHA,Công ty TNHH Phân Bón Hoàng Hà,B2B,,Đang sử dụng
+1164,CTY.1DN.NHATMY,Công Ty Cổ Phần Phân Bón Nhật Mỹ,B2B,,Đang sử dụng
+1165,CTY.1DN.PHUCHUNG,CTY TNHH SX GỖ PHÚC HƯNG,B2B,,Đang sử dụng
+1166,CTY.1DT.HIEPPHAT,Công ty TNHH Nông Nghiệp Hiệp Phát,B2B,,Đang sử dụng
+1167,CTY.1HCM.HOANGNGUYEN,Khách lẻ Hoàng Nguyên,B2B,,Đang sử dụng
+1168,CTY.1HCM.LAMLAN,Anh Lâm Lan,B2B,,Đang sử dụng
+1169,CTY.1HCM.SONGTIEN,CTY CPPT DIA OC SONG TIEN,B2B,,Đang sử dụng
+1170,CTY.1LA.TANTAI,Dương Tấn Tài,B2B,,Đang sử dụng
+1171,CTY.1TG.DATHAO,Đại lý DạThảo,B2B,,Đang sử dụng
+1172,CTY.1TG.THIENDI,Công TY TNHH TM -DV Thiên Di (Hàng nhả chậm),B2B,,Đang sử dụng
+1173,CTY.CT.KHANHPHAT,Công ty TNHH Khánh Phát (xử lí hđ),B2B,,Đang sử dụng
+1174,LD.1DL.DUNG,Đại Lý Dũng (Đà Lạt),B2B,,Đang sử dụng
+1175,LD.1LD.CUONGSUONG,Đại lý Phân bón Cường Sương (PP),B2B,,Đang sử dụng
+1176,LD.1LD.DUNGTHUY,Đại Lý Dũng Thúy,B2B,,Đang sử dụng
+1177,LD.1LD.DUYPHE,NGUYỄN DUY PHÊ,B2B,,Đang sử dụng
+1178,LD.1LD.HANH,Đại lý Hạnh,B2B,,Đang sử dụng
+1179,LD.1LD.HOATHONG,Đại lý Hoa Thông,B2B,,Đang sử dụng
+1180,LD.1LD.HONGLONG,Đại lý Hồng Long,B2B,,Đang sử dụng
+1181,LD.1LD.HUUNGHI,Đại Lý Hữu Nghị,B2B,,Đang sử dụng
+1182,LD.1LD.LANHAU,Đại lý Lan Hậu,B2B,,Đang sử dụng
+1183,LD.1LD.LANHUNG,Cửa Hàng VTNN Lan Hùng,B2B,,Đang sử dụng
+1184,LD.1LD.NGOCQUYNH,Công Ty TNHH Ngọc Quỳnh,B2B,,Đang sử dụng
+1185,LD.1LD.THANHSON,Đại lý Thanh Sơn,B2B,,Đang sử dụng
+1186,LD.2LD.GIATHANH,Công Ty TNHH Khúc Gia Thành,B2B,,Đang sử dụng
+1187,LD.2LD.HUONGNONG,Cửa hàng VTNN Hướng Nông,B2B,,Đang sử dụng
+1188,MD.1BT.TIENTHU,Cửa hàng VTNN Tiến Thu,B2B,,Đang sử dụng
+1189,MD.1BT.VAN,Cửa Hàng VTNN  Vân (PP),B2B,,Đang sử dụng
+1190,MD.1DN.THAOYEN,Nhà Phân Phối Thảo Yến,B2B,,Đang sử dụng
+1191,MD.1TN.DUNGTAYNINH,Anh Dũng Tây Ninh,B2B,,Đang sử dụng
+1192,MD.1TN.NHATHOANG,Đại lý Nhật Hoàng,B2B,,Đang sử dụng
+1193,MD.2BT.DUNGNGUYET,Cửa hàng VTNN Dũng Nguyệt,B2B,,Đang sử dụng
+1194,MD.2BT.PHUONGLINH,PHƯƠNG LINH ( TRẦN VĂN LANH),B2B,,Đang sử dụng
+1195,NSH.1DT.NGHIEPVANG,Đại lý Nông Nghiệp Vàng,B2B,,Đang sử dụng
+1196,TN.1DL.HUYCHINH,Đại Lý Huy Chính,B2B,,Đang sử dụng
+1197,TN.1GL.HOANGHAU,Đại lý Hoàng Hậu (PP),B2B,,Đang sử dụng
+1198,TN.2DL.TRUNGNGUYEN,Công ty TNHH Trung Nguyên Agricare,B2B,,Đang sử dụng
+1199,TN.2DN.HOANGLAN,CTY TNHH 1 TV HOÀNG LÂN AGRICARE,B2B,,Đang sử dụng
+1200,VGA.1AG.THUANMUA,Công Ty TNHH MTV TM & SXPB Thuận Mùa,B2B,,Đang sử dụng
+1201,VGA.1BD.OHARA,C.TY TNHH MTV TM XNK PB Ohara,B2B,,Đang sử dụng
+1202,VGA.1BG.TANDAT,CTY TNHH XNK TMTH TẤN ĐẠT,B2B,,Đang sử dụng
+1203,VGA.1BG.VANQUANG,Bàn Văn Quang,B2B,,Đang sử dụng
+1204,VGA.1CT.AGROPEST,C.TY TNHH AGROPEST VIỆT NAM,B2B,,Đang sử dụng
+1205,VGA.1CT.GIANGTAY,C.TY  Cổ Phần TMDV Giang Tây,B2B,,Đang sử dụng
+1206,VGA.1CT.LOCTHANG,CTY TNHH MTV NN Thiên Lộc Thắng,B2B,,Đang sử dụng
+1207,VGA.1DT.VIETNGA,DOANH NGHIỆP TN  VIỆT NGA,B2B,,Đang sử dụng
+1208,VGA.1HCM.AGRIVIET,CTY TNHH DT PT Agriviet,B2B,,Đang sử dụng
+1209,VGA.1HCM.ASIA,CTY TNHH PTNN  ASIA,B2B,,Đang sử dụng
+1210,VGA.1HCM.BINHPHU,Công ty TNHH TM Nam Bình Phú,B2B,,Đang sử dụng
+1211,VGA.1HCM.BIO9,Công Ty TNHH MTV TMDV  Bio 9,B2B,,Đang sử dụng
+1212,VGA.1HCM.DONGHAI,CTY CP KD DV ĐT ĐÔNG HẢI,B2B,,Đang sử dụng
+1213,VGA.1HCM.ECOTECH,CÔNG TY TNHH TM DV XNK GLOBAL ECOTECH,B2B,,Đang sử dụng
+1214,VGA.1HCM.GIAHUNG,CÔNG TY TNHH NÔNG GIA HƯNG,B2B,,Đang sử dụng
+1215,VGA.1HCM.HC,CÔNG TY TNHH NÔNG NGHIỆP HC,B2B,,Đang sử dụng
+1216,VGA.1HCM.NGOCMINH,CÔNG TY TNHH TM - DV NÔNG NGỌC MINH,B2B,,Đang sử dụng
+1217,VGA.1HCM.NGOCNT,NGUYỄN THỊ NGỌC,B2B,,Đang sử dụng
+1218,VGA.1HCM.NGUYENPHAT,CÔNG TY TNHH SX TM & DV NÔNG NGUYÊN PHÁT,B2B,,Đang sử dụng
+1219,VGA.1HCM.NONGPHAT,Công Ty TNHH TM XNK Quang Nông Phát,B2B,,Đang sử dụng
+1220,VGA.1HCM.NUTRIFARM,CTY TNHH TMDV NUTRI FARM,B2B,,Đang sử dụng
+1221,VGA.1HCM.RICHFARM,CTY TNHH RICH FARM VN,B2B,,Đang sử dụng
+1222,VGA.1HCM.SONGHAN,CTY TNHH ĐTNN SONG HÂN (Hợp Nhất Nông cũ),B2B,,Đang sử dụng
+1223,VGA.1HCM.TANBINH,CTY TNHH XNK Phân Bón Tân Bình,B2B,,Đang sử dụng
+1224,VGA.1HCM.THANPHAT,Cty TNHH MTV Nông Thần Phát,B2B,,Đang sử dụng
+1225,VGA.1HCM.TKT,CÔNG TY TNHH ĐTPT NÔNG NGHIỆP TKT,B2B,,Đang sử dụng
+1226,VGA.1HCM.USA,CÔNG TY CP PB FERTECH USA (Hoa Lợi),B2B,,Đang sử dụng
+1227,VGA.1HN.DATVIET,C.TY CP PTCN ĐẤT VIỆT,B2B,,Đang sử dụng
+1228,VGA.1HN.MAILAN,Hộ Kinh Doanh Phạm Thị Mai Lan,B2B,,Đang sử dụng
+1229,VGA.1LA.QUOCTE,C.TY CPPB Quốc Tế,B2B,,Đang sử dụng
+1230,VGA.1.PHUONGANH,Phương Anh,B2B,,Đang sử dụng
+1231,VGA.1TG.ANHGIAP,Công ty TNHH SX TM Anh Giáp,B2B,,Đang sử dụng
+1232,VGA.1TG.HANQUOC,CÔNG TY TNHH XNK PHÂN BÓN HÀN QUỐC,B2B,,Đang sử dụng
+1233,VGA.1TG.HOANTHIEN,Công ty TNHH Phân Bón Hoàn Thiện,B2B,,Đang sử dụng
+1234,VGA.1TG.KIMLONG,Cty TNHH Kim Long Tiền Giang,B2B,,Đang sử dụng
+1235,VGA.1TG.NONGTIN,Cty TNHH TM DV Nông Tín,B2B,,Đang sử dụng
+1236,VGA.1TG.VIETDUC,CTY TNHH XNK PHÂN BÓN VIỆT ĐỨC,B2B,,Đang sử dụng
+1237,VGA.2HCM.BACNAM,Cty CPPT Bắc Nam,B2B,,Đang sử dụng
+1238,VGA.2HCM.GIAFARM,CTY TNHH SX TM XNK ĐẤT GIA FARM,B2B,,Đang sử dụng
+1239,VGA.2HY.NHIETDOI,CTY TNHH NN NHIỆT ĐỚI,B2B,,Đang sử dụng
+1240,VGA.2KH.THAYTRUC,Công ty Cổ Phần EMU ( Việt Nam),B2B,,Đang sử dụng
+1241,MD.1BT.HOAHAO,ĐẠI LÝ (HKD) HÒA HẢO,B2B,,Đang sử dụng
+1242,BSH.2TG.PHUC,ĐẠI LÝ PHÚC,B2B,,Đang sử dụng
+1243,VGA.1HCM.AGRI,CÔNG TY TNHH HAPPY AGRI,B2B,,Đang sử dụng
+1244,VGA.1HCM.VINHHOA,CÔNG TY TNHH ESG VĨNH HÒA,B2B,,Đang sử dụng
+1245,VGA.1HCM.BINHMINH,CÔNG TY CỔ PHẦN HOÁ CHẤT VÀ PHÂN BÓN BÌNH MINH (kéo tại cảng),B2B,,Đang sử dụng
+1246,VGA.1HCM.TDC,CÔNG TY TNHH BVTV TDC,B2B,,Đang sử dụng
+1247,HCM.2HCM.MYNGOC,VƯỜN RAU MỸ NGỌC,B2B,,Đang sử dụng
+1248,HCM.2HCM.MYNGOC,VƯỜN RAU MỸ NGỌC,B2B,,Đang sử dụng
+1249,VGA.1CT.NEXUS,CÔNG TY TNHH NÔNG NGHIỆP NEXUS,B2B,,Đang sử dụng
+1250,VGA.1LA.CUULONG,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI PHÂN BÓN BÌNH ĐIỀN CỬU LONG (bán tại cảng),B2B,,Đang sử dụng
+1251,VGA.1HN.ANFER,CÔNG TY TNHH ANFER VIỆT NAM (bán tại cảng),B2B,,Đang sử dụng
+1252,LD.1LD.THINHHUE,ĐẠI LÝ THỊNH HUÊ,B2B,,Ngừng sử dụng
+1253,VGA.1CT.HAIHA,CÔNG TY TNHH NÔNG NGHIỆP CÔNG NGHỆ CAO HẢI HÀ,B2B,,Đang sử dụng
+1254,VGA.1DN.AGROBEST,CÔNG TY TNHH AGRO BEST VIỆT NAM ( Bán tại cảng ),B2B,,Đang sử dụng
+1255,VGA.1DN.TIGER,CÔNG TY TNHH TM DV NÔNG NGHIỆP FARMING TIGER,B2B,,Đang sử dụng
+1256,VGA.1HCM.VIETPHAP,CÔNG TY TNHH SX TM QUỐC TẾ VIỆT PHÁP ( Kéo tại cảng ),B2B,,Đang sử dụng
+1257,VGA.1CT.EGOFARM,CÔNG TY TNHH EGO.FARM,B2B,,Đang sử dụng
+1258,VGA.1NA.HOANGTRUNG,CTY TNHH XNK NN Hoàng Trung,B2B,,Đang sử dụng
+1259,MB.2HN.NIKCO,CÔNG TY TNHH NIKCO,B2B,,Đang sử dụng
+1260,VGA.1HCM.THAINONG,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI HOÀNG THÁI NÔNG,B2B,,Đang sử dụng
+1261,VGA.1TN.HOANGDUNG,CÔNG TY TRÁCH NHIỆM HỮU HẠN SẢN XUẤT-THƯƠNG MẠI HOÀNG DŨNG (kéo tại cảng),B2B,,Đang sử dụng
+1262,VGA.1BD.GAVANG,CÔNG TY TNHH MỘT THÀNH VIÊN CON GÀ VÀNG (kéo tại cảng),B2B,,Đang sử dụng
+1263,VGA.1HG.PHUPHAT,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NGUYÊN PHÚ PHÁT,B2B,,Đang sử dụng
+1264,VGA.1HCM.AGRIFARM,CÔNG TY TNHH MTV THƯƠNG MẠI DỊCH VỤ T&T AGRIFARM (kéo tại cảng),B2B,,Đang sử dụng
+1265,VGA.1HCM.WINDY,CÔNG TY TNHH WINDY ALS VIỆT NAM,B2B,,Đang sử dụng
+1266,VGA.1DL.HONGTHUAN,CÔNG TY TNHH NÔNG NGHIỆP CÔNG NGHỆ CAO HỒNG THUẬN,B2B,,Đang sử dụng

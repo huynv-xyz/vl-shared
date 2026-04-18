@@ -1,0 +1,8 @@
+
+datasources:
+  default:
+    url: jdbc:mysql://127.0.0.1:3306/vlife2?noAccessToProcedureBodies=true&useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    dialect: MYSQL
