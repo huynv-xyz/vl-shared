@@ -119,6 +119,48 @@ public class JdbcClient {
         });
     }
 
+    // ========================
+// QUERY FOR LIST (MAP)
+// ========================
+    public List<Map<String, Object>> queryForList(String sql, Map<String, ?> params) {
+        return tx.required(() -> {
+            ParsedSql ps = parse(sql, params);
+
+            return jdbc.prepareStatement(ps.sql, st -> {
+                bind(st, ps, params);
+
+                try (ResultSet rs = st.executeQuery()) {
+
+                    List<Map<String, Object>> list = new ArrayList<>();
+
+                    int colCount = rs.getMetaData().getColumnCount();
+
+                    while (rs.next()) {
+
+                        Map<String, Object> row = new LinkedHashMap<>();
+
+                        for (int i = 1; i <= colCount; i++) {
+                            String col = rs.getMetaData().getColumnLabel(i);
+                            row.put(col, rs.getObject(i));
+                        }
+
+                        list.add(row);
+                    }
+
+                    return list;
+                }
+            });
+        });
+    }
+
+    // ========================
+// QUERY FOR SINGLE MAP
+// ========================
+    public Map<String, Object> queryForMap(String sql, Map<String, ?> params) {
+        List<Map<String, Object>> list = queryForList(sql, params);
+        return list.isEmpty() ? Collections.emptyMap() : list.get(0);
+    }
+
     private ParsedSql parse(String sql, Map<String, ?> params) {
         boolean hasCollection = false;
         for (Object v : params.values()) {

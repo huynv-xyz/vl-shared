@@ -61,6 +61,12 @@ public class Contract extends AuditEntity  implements Identifiable<Integer> {
     @MappedProperty("import_tax_rate")
     private BigDecimal importTaxRate;
 
+    @MappedProperty("payment_method")
+    private String paymentMethod;
+
+    @MappedProperty("term")
+    private String term;
+
     @Override public Integer getId() { return id; }
     @Override public void setId(Integer id) { this.id = id; }
 }
